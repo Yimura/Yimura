@@ -23,7 +23,7 @@
 ```
 <!--GITHUB_REPOS:{"rows": 4, "raw": true}-->
 ```
-## Coding Activity (last 30 days)
+## Coding Activity
 <p align="center">
     <img alt="Coding Activity" src="https://wakatime.com/share/@Yimura/d28e6361-803a-4ea8-9d40-7440588330db.svg">
 </p>
