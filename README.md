@@ -17,10 +17,10 @@
 
 ## 🤹 Recent Activity
 ```
-⬆️ Pushed 1 commit to Yimura/Yimura
-⬆️ Pushed 1 commit to Yimura/Yimura
-⬆️ Pushed 1 commit to Damon-Org/EventExtender
-⬆️ Pushed 1 commit to Damon-Org/WebSocketClient
+⬆️ Pushed 3 commits to Yimura/node-ytdl-gui
+🎉 Merged PR #8 in Yimura/node-ytdl-gui
+🗣 Commented on #8 in Yimura/node-ytdl-gui
+🗣 Commented on #8 in Yimura/node-ytdl-gui
 ```
 ## 🌟 Cool Repos
 ```
@@ -36,7 +36,7 @@
 ------------
 <p align="center">
   Last refresh:
-  <b>2020-10-01T00:49:13Z</b>
+  <b>2020-10-02T00:47:29Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
