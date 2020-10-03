@@ -17,9 +17,9 @@
 
 ## 🤹 Recent Activity
 ```
+⬆️ Pushed 1 commit to Yimura/oxt2lua
 ⬆️ Pushed 3 commits to Yimura/node-ytdl-gui
 🎉 Merged PR #8 in Yimura/node-ytdl-gui
-🗣 Commented on #8 in Yimura/node-ytdl-gui
 🗣 Commented on #8 in Yimura/node-ytdl-gui
 ```
 ## 🌟 Cool Repos
@@ -27,7 +27,7 @@
 ⭐️ 2 📦 Yimura/MikeMyers
 ⭐️ 1 📦 Yimura/Findex
 ⭐️ 1 📦 Yimura/node-ytdl-gui
-⭐️ 1 📦 Yimura/VanillaAjax
+⭐️ 1 📦 Yimura/oxt2lua
 ```
 ## Coding Activity
 <p align="center">
@@ -36,7 +36,7 @@
 ------------
 <p align="center">
   Last refresh:
-  <b>2020-10-02T00:47:29Z</b>
+  <b>2020-10-03T00:48:17Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
