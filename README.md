@@ -17,10 +17,10 @@
 
 ## 🤹 Recent Activity
 ```
-⬆️ Pushed 1 commit to Yimura/Scraper
-⬆️ Pushed 1 commit to Damon-Org/APICollections
-⬆️ Pushed 2 commits to Yimura/Scraper
-⬆️ Pushed 4 commits to Yimura/Scraper
+⬆️ Pushed 3 commits to Yimura/Scraper
+⬆️ Pushed 6 commits to Yimura/Scraper
+❗️ Closed issue #1 in Yimura/Scraper
+❗️ Closed issue #2 in Yimura/Scraper
 ```
 ## 🌟 Cool Repos
 ```
@@ -36,7 +36,7 @@
 ------------
 <p align="center">
   Last refresh:
-  <b>2020-10-28T00:58:02Z</b>
+  <b>2020-10-29T00:59:02Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
