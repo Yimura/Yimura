@@ -17,10 +17,10 @@
 
 ## 🤹 Recent Activity
 ```
-⬆️ Pushed 1 commit to Damon-Org/CommandRegistrar
-⬆️ Pushed 1 commit to Damon-Org/DJSystem
-⬆️ Pushed 3 commits to Yimura/Scraper
-⬆️ Pushed 6 commits to Yimura/Scraper
+⬆️ Pushed 1 commit to Damon-Org/WebSocketClient
+⬆️ Pushed 1 commit to Damon-Org/TrackSpotify
+⬆️ Pushed 1 commit to Damon-Org/TrackResolver
+⬆️ Pushed 1 commit to Damon-Org/TrackDeezer
 ```
 ## 🌟 Cool Repos
 ```
@@ -36,7 +36,7 @@
 ------------
 <p align="center">
   Last refresh:
-  <b>2020-10-30T00:34:32Z</b>
+  <b>2020-10-31T00:32:35Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
