@@ -17,10 +17,10 @@
 
 ## 🤹 Recent Activity
 ```
+⬆️ Pushed 1 commit to Yimura/InteractionDesignAPI
 ⬆️ Pushed 1 commit to Damon-Org/WebSocketClient
 ⬆️ Pushed 1 commit to Damon-Org/TrackSpotify
 ⬆️ Pushed 1 commit to Damon-Org/TrackResolver
-⬆️ Pushed 1 commit to Damon-Org/TrackDeezer
 ```
 ## 🌟 Cool Repos
 ```
@@ -36,7 +36,7 @@
 ------------
 <p align="center">
   Last refresh:
-  <b>2020-11-03T00:35:13Z</b>
+  <b>2020-11-04T00:35:40Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
