@@ -17,10 +17,10 @@
 
 ## 🤹 Recent Activity
 ```
+❗️ Opened issue #1 in ChillFish8/Guava
 ⬆️ Pushed 1 commit to Yimura/InteractionDesignAPI
 ⬆️ Pushed 1 commit to Damon-Org/WebSocketClient
 ⬆️ Pushed 1 commit to Damon-Org/TrackSpotify
-⬆️ Pushed 1 commit to Damon-Org/TrackResolver
 ```
 ## 🌟 Cool Repos
 ```
@@ -36,7 +36,7 @@
 ------------
 <p align="center">
   Last refresh:
-  <b>2020-11-12T00:35:26Z</b>
+  <b>2020-11-13T00:35:11Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
