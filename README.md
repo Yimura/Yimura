@@ -18,9 +18,9 @@
 ## 🤹 Recent Activity
 ```
 ⬆️ Pushed 1 commit to Yimura/DEVPROG_Project
-⬆️ Pushed 4 commits to Yimura/InteractionDesignAPI
-⬆️ Pushed 7 commits to Yimura/InteractionDesignAPI
-⬆️ Pushed 3 commits to Yimura/DEVPROG_Project
+⬆️ Pushed 10 commits to Yimura/DEVPROG_Project
+⬆️ Pushed 12 commits to Yimura/DEVPROG_Project
+⬆️ Pushed 1 commit to Yimura/DEVPROG_Project
 ```
 ## 🌟 Cool Repos
 ```
@@ -36,7 +36,7 @@
 ------------
 <p align="center">
   Last refresh:
-  <b>2020-11-21T00:39:08Z</b>
+  <b>2020-11-22T00:41:35Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
