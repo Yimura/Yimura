@@ -17,10 +17,10 @@
 
 ## 🤹 Recent Activity
 ```
+⬆️ Pushed 4 commits to Yimura/Scraper
 ❗️ Opened issue #13 in Yimura/node-ytdl-gui
 ❗️ Opened issue #12 in Yimura/node-ytdl-gui
 ⬆️ Pushed 1 commit to Yimura/node-ytdl-gui
-🎉 Merged PR #11 in Yimura/node-ytdl-gui
 ```
 ## 🌟 Cool Repos
 ```
@@ -36,7 +36,7 @@
 ------------
 <p align="center">
   Last refresh:
-  <b>2020-11-25T00:40:56Z</b>
+  <b>2020-11-26T00:40:37Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
