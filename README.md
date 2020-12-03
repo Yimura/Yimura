@@ -17,10 +17,10 @@
 
 ## 🤹 Recent Activity
 ```
+⬆️ Pushed 1 commit to Yimura/DEVPROG_Project
+⬆️ Pushed 4 commits to Yimura/DEVPROG_Project
+⬆️ Pushed 3 commits to Yimura/DEVPROG_Project
 ⬆️ Pushed 9 commits to Yimura/DEVPROG_Project
-⬆️ Pushed 3 commits to Yimura/node-ytdl-gui
-⬆️ Pushed 9 commits to Yimura/node-ytdl-gui
-🎉 Merged PR #14 in Yimura/node-ytdl-gui
 ```
 ## 🌟 Cool Repos
 ```
@@ -36,7 +36,7 @@
 ------------
 <p align="center">
   Last refresh:
-  <b>2020-12-02T00:44:34Z</b>
+  <b>2020-12-03T00:43:42Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
