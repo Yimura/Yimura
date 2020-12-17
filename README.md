@@ -17,10 +17,10 @@
 
 ## 🤹 Recent Activity
 ```
-⬆️ Pushed 8 commits to Yimura/Portfolio
-📦 Released "Version 0.1.0" in Yimura/DEVPROG_Project
-⬆️ Pushed 1 commit to Yimura/DEVPROG_Project
-⬆️ Pushed 3 commits to Yimura/DEVPROG_Project
+⬆️ Pushed 2 commits to Yimura/InteractionDesignAPI
+⬆️ Pushed 1 commit to Damon-Org/TrackDeezer
+⬆️ Pushed 1 commit to Damon-Org/TrackSpotify
+⬆️ Pushed 2 commits to Yimura/Scraper
 ```
 ## 🌟 Cool Repos
 ```
@@ -36,7 +36,7 @@
 ------------
 <p align="center">
   Last refresh:
-  <b>2020-12-16T00:50:05Z</b>
+  <b>2020-12-17T00:51:10Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
