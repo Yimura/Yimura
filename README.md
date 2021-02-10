@@ -17,10 +17,10 @@
 
 ## 🤹 Recent Activity
 ```
-❗️ Opened issue #1 in GeopJr/DNOME
-⬆️ Pushed 3 commits to Yimura/cppitch
-⬆️ Pushed 3 commits to Yimura/cppitch
-⬆️ Pushed 1 commit to Yimura/cppitch
+⬆️ Pushed 8 commits to Damon-Org/damon-base
+🎉 Merged PR #1 in Damon-Org/damon-base
+💪 Opened PR #1 in Damon-Org/damon-base
+⬆️ Pushed 1 commit to Damon-Org/damon-base
 ```
 ## 🌟 Cool Repos
 ```
@@ -36,7 +36,7 @@
 ------------
 <p align="center">
   Last refresh:
-  <b>2021-02-09T00:43:40Z</b>
+  <b>2021-02-10T00:42:47Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
