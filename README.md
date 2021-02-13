@@ -18,16 +18,16 @@
 ## 🤹 Recent Activity
 ```
 ⬆️ Pushed 1 commit to Damon-Org/damon-base
-⬆️ Pushed 1 commit to Damon-Org/damon-base
-⬆️ Pushed 1 commit to Damon-Org/DJSystem
-⬆️ Pushed 8 commits to Damon-Org/damon-base
+❗️ Closed issue #3 in Damon-Org/damon-base
+❗️ Opened issue #3 in Damon-Org/damon-base
+🗣 Commented on #2 in Damon-Org/damon-base
 ```
 ## 🌟 Cool Repos
 ```
+⭐️ 2 📦 Yimura/GTAV-Classes
 ⭐️ 2 📦 Yimura/Scraper
 ⭐️ 1 📦 Yimura/DEVPROG_Project
 ⭐️ 1 📦 Yimura/Findex
-⭐️ 1 📦 Yimura/GTAV-Classes
 ```
 ## Coding Activity
 <p align="center">
@@ -36,7 +36,7 @@
 ------------
 <p align="center">
   Last refresh:
-  <b>2021-02-12T00:43:50Z</b>
+  <b>2021-02-13T00:43:36Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
