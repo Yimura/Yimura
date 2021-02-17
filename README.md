@@ -17,10 +17,10 @@
 
 ## 🤹 Recent Activity
 ```
+⬆️ Pushed 2 commits to Damon-Org/damon-base
+🎉 Merged PR #4 in Damon-Org/damon-base
+❗️ Opened issue #3 in GeopJr/DNOME
 ⬆️ Pushed 1 commit to Damon-Org/APICollections
-⬆️ Pushed 1 commit to Yimura/Scraper
-⬆️ Pushed 11 commits to Yimura/Scraper
-🎉 Merged PR #4 in Yimura/Scraper
 ```
 ## 🌟 Cool Repos
 ```
@@ -36,7 +36,7 @@
 ------------
 <p align="center">
   Last refresh:
-  <b>2021-02-16T00:44:14Z</b>
+  <b>2021-02-17T00:44:05Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
