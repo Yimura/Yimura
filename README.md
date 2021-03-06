@@ -17,10 +17,10 @@
 
 ## 🤹 Recent Activity
 ```
+⬆️ Pushed 1 commit to MCT-TeamProject-CO2/Node-Server
+⬆️ Pushed 1 commit to MCT-TeamProject-CO2/Node-Server
+⬆️ Pushed 1 commit to MCT-TeamProject-CO2/Node-Server
 ⬆️ Pushed 4 commits to MCT-TeamProject-CO2/Node-Server
-📦 Released "Version 1.1.0" in Yimura/Scraper
-⬆️ Pushed 1 commit to Yimura/Scraper
-⬆️ Pushed 6 commits to Yimura/Scraper
 ```
 ## 🌟 Cool Repos
 ```
@@ -36,7 +36,7 @@
 ------------
 <p align="center">
   Last refresh:
-  <b>2021-03-05T00:47:16Z</b>
+  <b>2021-03-06T00:46:41Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
