@@ -17,10 +17,10 @@
 
 ## 🤹 Recent Activity
 ```
-⬆️ Pushed 1 commit to Damon-Org/ServerSetting
-⬆️ Pushed 1 commit to Yimura/node-tunein-api
-⬆️ Pushed 1 commit to Yimura/node-tunein-api
-⬆️ Pushed 1 commit to MCT-TeamProject-CO2/Node-Server
+📦 Released "Version 1.2.0" in Yimura/Scraper
+🗣 Commented on #5 in Yimura/Scraper
+⬆️ Pushed 1 commit to Yimura/Scraper
+⬆️ Pushed 2 commits to Yimura/Scraper
 ```
 ## 🌟 Cool Repos
 ```
@@ -36,7 +36,7 @@
 ------------
 <p align="center">
   Last refresh:
-  <b>2021-03-25T00:20:13Z</b>
+  <b>2021-03-26T00:18:00Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
