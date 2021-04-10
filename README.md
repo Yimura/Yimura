@@ -17,10 +17,10 @@
 
 ## 🤹 Recent Activity
 ```
+⬆️ Pushed 10 commits to Damon-Org/SpeedDemon
 ⬆️ Pushed 1 commit to Damon-Org/SpeedDemon
 ⬆️ Pushed 1 commit to MCT-MaertenAndreas/Backend-Project
 ⬆️ Pushed 1 commit to MCT-MaertenAndreas/Backend-Project
-⬆️ Pushed 1 commit to Damon-Org/EventExtender
 ```
 ## 🌟 Cool Repos
 ```
@@ -36,7 +36,7 @@
 ------------
 <p align="center">
   Last refresh:
-  <b>2021-04-09T00:18:48Z</b>
+  <b>2021-04-10T00:18:53Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
