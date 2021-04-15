@@ -17,9 +17,9 @@
 
 ## 🤹 Recent Activity
 ```
+⬆️ Pushed 2 commits to MCT-MaertenAndreas/Backend-Project
+⬆️ Pushed 1 commit to Yimura/node-ytdl-gui
 ⬆️ Pushed 1 commit to MCT-MaertenAndreas/Backend-Project
-⬆️ Pushed 1 commit to Damon-Org/SpeedDemon
-⬆️ Pushed 10 commits to Damon-Org/SpeedDemon
 ⬆️ Pushed 1 commit to Damon-Org/SpeedDemon
 ```
 ## 🌟 Cool Repos
@@ -36,7 +36,7 @@
 ------------
 <p align="center">
   Last refresh:
-  <b>2021-04-14T00:17:14Z</b>
+  <b>2021-04-15T00:18:27Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
