@@ -17,10 +17,10 @@
 
 ## 🤹 Recent Activity
 ```
+⬆️ Pushed 6 commits to Howest-AdvMathProg/project-2021-Joren-vanGoethem
+⬆️ Pushed 1 commit to Howest-AdvMathProg/project-2021-Joren-vanGoethem
 ⬆️ Pushed 2 commits to MCT-MaertenAndreas/Backend-Project
 ⬆️ Pushed 9 commits to MCT-MaertenAndreas/Backend-Project
-⬆️ Pushed 2 commits to Yimura/MySQL_IMDb_Project
-⬆️ Pushed 2 commits to MCT-MaertenAndreas/Backend-Project
 ```
 ## 🌟 Cool Repos
 ```
@@ -36,7 +36,7 @@
 ------------
 <p align="center">
   Last refresh:
-  <b>2021-04-22T00:18:50Z</b>
+  <b>2021-04-23T00:18:24Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
