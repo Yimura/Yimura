@@ -17,10 +17,10 @@
 
 ## 🤹 Recent Activity
 ```
-⬆️ Pushed 6 commits to Howest-AdvMathProg/project-2021-Joren-vanGoethem
-⬆️ Pushed 1 commit to Howest-AdvMathProg/project-2021-Joren-vanGoethem
-⬆️ Pushed 2 commits to MCT-MaertenAndreas/Backend-Project
-⬆️ Pushed 9 commits to MCT-MaertenAndreas/Backend-Project
+🗣 Commented on #6 in Yimura/Scraper
+⬆️ Pushed 1 commit to Yimura/Scraper
+⬆️ Pushed 2 commits to Yimura/Scraper
+🎉 Merged PR #6 in Yimura/Scraper
 ```
 ## 🌟 Cool Repos
 ```
@@ -36,7 +36,7 @@
 ------------
 <p align="center">
   Last refresh:
-  <b>2021-04-26T00:20:02Z</b>
+  <b>2021-04-27T00:17:57Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
