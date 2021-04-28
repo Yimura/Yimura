@@ -17,10 +17,10 @@
 
 ## 🤹 Recent Activity
 ```
+⬆️ Pushed 1 commit to Damon-Org/Metrics
 🗣 Commented on #6 in Yimura/Scraper
 ⬆️ Pushed 1 commit to Yimura/Scraper
 ⬆️ Pushed 2 commits to Yimura/Scraper
-🎉 Merged PR #6 in Yimura/Scraper
 ```
 ## 🌟 Cool Repos
 ```
@@ -36,7 +36,7 @@
 ------------
 <p align="center">
   Last refresh:
-  <b>2021-04-27T00:17:57Z</b>
+  <b>2021-04-28T00:18:25Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
