@@ -17,8 +17,8 @@
 
 ## 🤹 Recent Activity
 ```
-⬆️ Pushed 2 commits to MCT-MaertenAndreas/Backend-Project
-⬆️ Pushed 3 commits to MCT-MaertenAndreas/Backend-Project
+⬆️ Pushed 1 commit to MCT-MaertenAndreas/Backend-Project
+⬆️ Pushed 1 commit to MCT-MaertenAndreas/Backend-Project
 ⬆️ Pushed 1 commit to MCT-MaertenAndreas/Backend-Project
 ⬆️ Pushed 1 commit to MCT-MaertenAndreas/Backend-Project
 ```
@@ -36,7 +36,7 @@
 ------------
 <p align="center">
   Last refresh:
-  <b>2021-05-01T00:10:31Z</b>
+  <b>2021-05-02T00:12:42Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
