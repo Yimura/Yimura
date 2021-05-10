@@ -18,9 +18,9 @@
 ## 🤹 Recent Activity
 ```
 ⬆️ Pushed 1 commit to Howest-AdvMathProg/project-2021-Joren-vanGoethem
-⬆️ Pushed 5 commits to Howest-AdvMathProg/project-2021-Joren-vanGoethem
 ⬆️ Pushed 1 commit to Howest-AdvMathProg/project-2021-Joren-vanGoethem
-❗️ Opened issue #1 in MCT-TeamProject-CO2/Node-Server
+⬆️ Pushed 1 commit to Howest-AdvMathProg/project-2021-Joren-vanGoethem
+⬆️ Pushed 1 commit to Howest-AdvMathProg/project-2021-Joren-vanGoethem
 ```
 ## 🌟 Cool Repos
 ```
@@ -36,7 +36,7 @@
 ------------
 <p align="center">
   Last refresh:
-  <b>2021-05-09T00:59:56Z</b>
+  <b>2021-05-10T00:59:05Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
