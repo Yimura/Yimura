@@ -17,10 +17,10 @@
 
 ## 🤹 Recent Activity
 ```
-⬆️ Pushed 1 commit to Howest-AdvMathProg/project-2021-Joren-vanGoethem
-⬆️ Pushed 1 commit to Howest-AdvMathProg/project-2021-Joren-vanGoethem
-⬆️ Pushed 1 commit to Howest-AdvMathProg/project-2021-Joren-vanGoethem
-⬆️ Pushed 1 commit to Howest-AdvMathProg/project-2021-Joren-vanGoethem
+💪 Opened PR #840 in sammchardy/python-binance
+⬆️ Pushed 1 commit to Yimura/python-binance
+🗣 Commented on #839 in sammchardy/python-binance
+⬆️ Pushed 2 commits to Damon-Org/Socket
 ```
 ## 🌟 Cool Repos
 ```
@@ -36,7 +36,7 @@
 ------------
 <p align="center">
   Last refresh:
-  <b>2021-05-10T00:59:05Z</b>
+  <b>2021-05-11T00:58:51Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
