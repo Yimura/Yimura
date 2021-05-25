@@ -17,14 +17,14 @@
 
 ## 🤹 Recent Activity
 ```
-🗣 Commented on #847 in sammchardy/python-binance
-💪 Opened PR #840 in sammchardy/python-binance
-⬆️ Pushed 1 commit to Yimura/python-binance
-🗣 Commented on #839 in sammchardy/python-binance
+🗣 Commented on #7 in Yimura/Scraper
+⬆️ Pushed 2 commits to Yimura/Scraper
+❗️ Closed issue #7 in Yimura/Scraper
+🎉 Merged PR #8 in Yimura/Scraper
 ```
 ## 🌟 Cool Repos
 ```
-⭐️ 3 📦 Yimura/Scraper
+⭐️ 4 📦 Yimura/Scraper
 ⭐️ 2 📦 Yimura/GTAV-Classes
 ⭐️ 2 📦 Yimura/node-tunein-api
 ⭐️ 2 📦 Yimura/TFDB-Bot
@@ -36,7 +36,7 @@
 ------------
 <p align="center">
   Last refresh:
-  <b>2021-05-24T00:10:20Z</b>
+  <b>2021-05-25T00:10:27Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
