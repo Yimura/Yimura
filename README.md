@@ -17,10 +17,10 @@
 
 ## 🤹 Recent Activity
 ```
-📦 Released "Version 1.2.2" in Yimura/Scraper
-📦 Released "Version 1.2.1" in Yimura/Scraper
-⬆️ Pushed 1 commit to Yimura/Scraper
-🗣 Commented on #7 in Yimura/Scraper
+❗️ Opened issue #6 in Akke/BotDocs
+💪 Opened PR #5 in Akke/BotDocs
+⬆️ Pushed 3 commits to Yimura/BotDocs
+⬆️ Pushed 2 commits to Yimura/BotDocs
 ```
 ## 🌟 Cool Repos
 ```
@@ -36,7 +36,7 @@
 ------------
 <p align="center">
   Last refresh:
-  <b>2021-05-26T00:14:18Z</b>
+  <b>2021-05-27T00:15:21Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
