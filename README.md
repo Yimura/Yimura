@@ -17,10 +17,10 @@
 
 ## 🤹 Recent Activity
 ```
+⬆️ Pushed 11 commits to Yimura/BotDocs
 ⬆️ Pushed 2 commits to Yimura/BotDocs
 ⬆️ Pushed 0 commit to Yimura/BotDocs
 💪 Opened PR #9 in Akke/BotDocs
-⬆️ Pushed 1 commit to Yimura/BotDocs
 ```
 ## 🌟 Cool Repos
 ```
@@ -36,7 +36,7 @@
 ------------
 <p align="center">
   Last refresh:
-  <b>2021-05-30T00:22:11Z</b>
+  <b>2021-05-31T00:23:58Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
