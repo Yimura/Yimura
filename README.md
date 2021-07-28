@@ -17,10 +17,10 @@
 
 ## 🤹 Recent Activity
 ```
+📦 Released "Version 0.1.1" in Yimura/Fabric-Spectate
+⬆️ Pushed 2 commits to Yimura/Fabric-Spectate
+⬆️ Pushed 1 commit to Yimura/GTAV-Classes
 ⬆️ Pushed 3 commits to Yimura/GTAV-Classes
-⬆️ Pushed 5 commits to Yimura/GTAV-Classes
-⬆️ Pushed 2 commits to Yimura/GTAV-Classes
-⬆️ Pushed 3 commits to Yimura/Fabric-Spectate
 ```
 ## 🌟 Cool Repos
 ```
@@ -36,7 +36,7 @@
 ------------
 <p align="center">
   Last refresh:
-  <b>2021-07-27T00:07:44Z</b>
+  <b>2021-07-28T00:08:17Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
