@@ -1,27 +1,60 @@
-```json
-{
-    "Yimura": {
-        "name":         "Andreas Maerten",
-        "gender":       "male",
-        "syntaxes":     ["C++ (limited experience)", "C#", "CSS", "HTML", "JavaScript", "Lua", "PHP", "Python"],
-        "environments": ["CommonJS", "esModule", "Lua (FiveM)", "NodeJS"],
-        "website":      "https://music.damon.sh/",
-        "social": {
-            "discord":  "Yimura#6969",
-            "steam":    "steamcommunity.com/id/y1mura",
-            "twitter":  "@Yimura9"
-        }
+```js
+export default class MyProfile {
+  constructor() { }
+
+  /**
+   * @returns {string} Full Name
+   */
+  get full_name() {
+    return "Andreas Maerten";
+  }
+
+  /**
+   * @returns {string} Gender
+   */
+  get gender() {
+    return "male";
+  }
+
+  /**
+   * @returns {Array<string>}
+   */
+  get skillset() {
+    return [
+      "C++", "C#", "Docker",
+      "Fullstack Web", "NodeJS",
+      "Lua",  "PHP", "Python",
+      "VueJS"
+    ];
+  }
+
+  /**
+   * @returns {Object}
+   */
+  get socials() {
+    return {
+      "discord": "Yimura#6969",
+      "steam"  : "steamcommunity.com/id/y1mura",
+      "twitter": "@Yimura9"
     }
+  }
+
+  /**
+   * @returns {string}
+   */
+  getMoreInfo() {
+    return "https://andreas.is.a.pieceof.art";
+  }
 }
 ```
 
 ## 🤹 Recent Activity
 ```
-<!--GITHUB_ACTIVITY:{"rows": 4, "exclude": ["ForkEvent"], "raw": true}-->
+<!--GITHUB_ACTIVITY:{"rows": 5, "exclude": ["ForkEvent"], "raw": true}-->
 ```
 ## 🌟 Cool Repos
 ```
-<!--GITHUB_REPOS:{"rows": 4, "raw": true}-->
+<!--GITHUB_REPOS:{"rows": 5, "raw": true}-->
 ```
 ## Coding Activity
 <p align="center">
