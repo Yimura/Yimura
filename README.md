@@ -1,33 +1,68 @@
-```json
-{
-    "Yimura": {
-        "name":         "Andreas Maerten",
-        "gender":       "male",
-        "syntaxes":     ["C++ (limited experience)", "C#", "CSS", "HTML", "JavaScript", "Lua", "PHP", "Python"],
-        "environments": ["CommonJS", "esModule", "Lua (FiveM)", "NodeJS"],
-        "website":      "https://music.damon.sh/",
-        "social": {
-            "discord":  "Yimura#6969",
-            "steam":    "steamcommunity.com/id/y1mura",
-            "twitter":  "@Yimura9"
-        }
+```js
+export default class MyProfile {
+  constructor() { }
+
+  /**
+   * @returns {string} Full Name
+   */
+  get full_name() {
+    return "Andreas Maerten";
+  }
+
+  /**
+   * @returns {string} Gender
+   */
+  get gender() {
+    return "male";
+  }
+
+  /**
+   * @returns {Array<string>}
+   */
+  get skillset() {
+    return [
+      "C++", "C#", "Docker",
+      "Fullstack Web", "NodeJS",
+      "Lua",  "PHP", "Python",
+      "VueJS"
+    ];
+  }
+
+  /**
+   * @returns {Object}
+   */
+  get socials() {
+    return {
+      "discord": "Yimura#6969",
+      "steam"  : "steamcommunity.com/id/y1mura",
+      "twitter": "@Yimura9"
     }
+  }
+
+  /**
+   * @returns {string}
+   */
+  getMoreInfo() {
+    return "https://andreas.is.a.pieceof.art";
+  }
 }
 ```
 
 ## 🤹 Recent Activity
 ```
-📦 Released "Version 0.1.1" in Yimura/Fabric-Spectate
-⬆️ Pushed 2 commits to Yimura/Fabric-Spectate
+⬆️ Pushed 1 commit to Yimura/Yimura
+⬆️ Pushed 1 commit to Yimura/Injector
+⬆️ Pushed 7 commits to Yimura/Injector
 ⬆️ Pushed 1 commit to Yimura/GTAV-Classes
-⬆️ Pushed 3 commits to Yimura/GTAV-Classes
+⬆️ Pushed 8 commits to Yimura/GTAV-Classes
 ```
 ## 🌟 Cool Repos
 ```
 ⭐️ 6 📦 Yimura/Scraper
-⭐️ 2 📦 Yimura/GTAV-Classes
-⭐️ 2 📦 Yimura/MC-Cave-Cliffs-Datapack
+⭐️ 5 📦 Yimura/GTAV-Classes
 ⭐️ 2 📦 Yimura/node-tunein-api
+⭐️ 2 📦 Yimura/node-ytdl-gui
+⭐️ 2 📦 Yimura/TFDB-Bot
 ```
 ## Coding Activity
 <p align="center">
@@ -36,7 +71,7 @@
 ------------
 <p align="center">
   Last refresh:
-  <b>2021-08-01T00:09:12Z</b>
+  <b>2021-09-22T22:50:12Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
