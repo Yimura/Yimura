@@ -51,10 +51,10 @@ export default class MyProfile {
 ## 🤹 Recent Activity
 ```
 ⬆️ Pushed 1 commit to Yimura/Yimura
+⬆️ Pushed 1 commit to Yimura/Yimura
 ⬆️ Pushed 1 commit to Yimura/Injector
 ⬆️ Pushed 7 commits to Yimura/Injector
 ⬆️ Pushed 1 commit to Yimura/GTAV-Classes
-⬆️ Pushed 8 commits to Yimura/GTAV-Classes
 ```
 ## 🌟 Cool Repos
 ```
@@ -71,7 +71,7 @@ export default class MyProfile {
 ------------
 <p align="center">
   Last refresh:
-  <b>2021-09-22T22:50:12Z</b>
+  <b>2021-09-23T00:09:27Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
