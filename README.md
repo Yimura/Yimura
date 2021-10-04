@@ -50,11 +50,11 @@ export default class MyProfile {
 
 ## 🤹 Recent Activity
 ```
+⬆️ Pushed 3 commits to Yimura/node-ytdl-gui
+🎉 Merged PR #16 in Yimura/node-ytdl-gui
+❗️ Closed issue #12 in Yimura/node-ytdl-gui
 ⬆️ Pushed 1 commit to Damon-Org/CommandRegistrar
 ❗️ Closed issue #1 in Damon-Org/CommandRegistrar
-⬆️ Pushed 1 commit to Damon-Org/ServerSetting
-⬆️ Pushed 1 commit to Damon-Org/UserSetting
-⬆️ Pushed 1 commit to Damon-Org/CommandRegistrar
 ```
 ## 🌟 Cool Repos
 ```
@@ -71,7 +71,7 @@ export default class MyProfile {
 ------------
 <p align="center">
   Last refresh:
-  <b>2021-10-03T00:11:12Z</b>
+  <b>2021-10-04T00:09:48Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
