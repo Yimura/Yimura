@@ -58,11 +58,11 @@ export default class MyProfile {
 ```
 ## 🌟 Cool Repos
 ```
-⭐️ 7 📦 Yimura/GTAV-Classes
-⭐️ 6 📦 Yimura/Scraper
-⭐️ 2 📦 Yimura/node-tunein-api
-⭐️ 2 📦 Yimura/node-ytdl-gui
-⭐️ 2 📦 Yimura/TFDB-Bot
+⭐️ 10 📦 Yimura/GTAV-Classes
+⭐️ 6  📦 Yimura/Scraper
+⭐️ 2  📦 Yimura/node-tunein-api
+⭐️ 2  📦 Yimura/node-ytdl-gui
+⭐️ 2  📦 Yimura/TFDB-Bot
 ```
 ## Coding Activity
 <p align="center">
@@ -71,7 +71,7 @@ export default class MyProfile {
 ------------
 <p align="center">
   Last refresh:
-  <b>2021-10-16T00:10:29Z</b>
+  <b>2021-10-17T00:10:16Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
