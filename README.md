@@ -50,11 +50,11 @@ export default class MyProfile {
 
 ## 🤹 Recent Activity
 ```
+⬆️ Pushed 1 commit to Debt-Tracker/Tracker-Backend
 ⬆️ Pushed 2 commits to Yimura/DisTream
 ⬆️ Pushed 1 commit to Yimura/GTAV-Classes
 💪 Opened PR #9 in DottieDot/GTAV-NativeDB
 ⬆️ Pushed 2 commits to Yimura/GTAV-NativeDB
-⬆️ Pushed 3 commits to Yimura/GTAV-NativeDB
 ```
 ## 🌟 Cool Repos
 ```
@@ -71,7 +71,7 @@ export default class MyProfile {
 ------------
 <p align="center">
   Last refresh:
-  <b>2021-10-20T00:10:37Z</b>
+  <b>2021-10-21T00:10:37Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
