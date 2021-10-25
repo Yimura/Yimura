@@ -50,11 +50,11 @@ export default class MyProfile {
 
 ## 🤹 Recent Activity
 ```
+⬆️ Pushed 1 commit to Yimura/Yimura
 ⬆️ Pushed 2 commits to Yimura/node-ytdl-gui
 🎉 Merged PR #17 in Yimura/node-ytdl-gui
 💪 Opened PR #17 in Yimura/node-ytdl-gui
 ⬆️ Pushed 1 commit to Debt-Tracker/Tracker-Backend
-⬆️ Pushed 2 commits to Yimura/DisTream
 ```
 ## 🌟 Cool Repos
 ```
@@ -68,10 +68,12 @@ export default class MyProfile {
 <p align="center">
     <img alt="Coding Activity" src="https://wakatime.com/share/@Yimura/d28e6361-803a-4ea8-9d40-7440588330db.svg">
 </p>
-------------
+<img alt="Total Coding Activity" src="https://wakatime.com/badge/user/3f8ff476-eda5-4d56-93bf-7d04c10400b8.svg" />
+
+
 <p align="center">
   Last refresh:
-  <b>2021-10-25T00:10:44Z</b>
+  <b>2021-10-25T07:57:04Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
