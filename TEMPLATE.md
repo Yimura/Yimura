@@ -60,7 +60,9 @@ export default class MyProfile {
 <p align="center">
     <img alt="Coding Activity" src="https://wakatime.com/share/@Yimura/d28e6361-803a-4ea8-9d40-7440588330db.svg">
 </p>
-------------
+<img alt="Total Coding Activity" src="https://wakatime.com/badge/user/3f8ff476-eda5-4d56-93bf-7d04c10400b8.svg" />
+
+
 <p align="center">
   Last refresh:
   <b><!--TIMESTAMP--></b>
