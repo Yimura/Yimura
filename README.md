@@ -50,15 +50,15 @@ export default class MyProfile {
 
 ## 🤹 Recent Activity
 ```
+⬆️ Pushed 1 commit to Damon-Org/MusicBot
+⬆️ Pushed 1 commit to Damon-Org/MusicSystem
+⬆️ Pushed 1 commit to Damon-Org/MusicSystem
 ⬆️ Pushed 1 commit to Yimura/Yimura
 ⬆️ Pushed 2 commits to Yimura/node-ytdl-gui
-🎉 Merged PR #17 in Yimura/node-ytdl-gui
-💪 Opened PR #17 in Yimura/node-ytdl-gui
-⬆️ Pushed 1 commit to Debt-Tracker/Tracker-Backend
 ```
 ## 🌟 Cool Repos
 ```
-⭐️ 16 📦 Yimura/GTAV-Classes
+⭐️ 17 📦 Yimura/GTAV-Classes
 ⭐️ 6  📦 Yimura/Scraper
 ⭐️ 2  📦 Yimura/node-tunein-api
 ⭐️ 2  📦 Yimura/node-ytdl-gui
@@ -73,7 +73,7 @@ export default class MyProfile {
 
 <p align="center">
   Last refresh:
-  <b>2021-11-04T00:10:33Z</b>
+  <b>2021-11-05T00:10:05Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
