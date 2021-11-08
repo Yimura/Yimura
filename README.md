@@ -50,11 +50,11 @@ export default class MyProfile {
 
 ## 🤹 Recent Activity
 ```
-⬆️ Pushed 1 commit to Damon-Org/MusicBot
+⬆️ Pushed 1 commit to Damon-Org/ServerSetting
+⬆️ Pushed 2 commits to Damon-Org/MusicBot
 ⬆️ Pushed 1 commit to Damon-Org/MusicSystem
+⬆️ Pushed 2 commits to Damon-Org/MusicBot
 ⬆️ Pushed 1 commit to Damon-Org/MusicSystem
-⬆️ Pushed 1 commit to Yimura/Yimura
-⬆️ Pushed 2 commits to Yimura/node-ytdl-gui
 ```
 ## 🌟 Cool Repos
 ```
@@ -73,7 +73,7 @@ export default class MyProfile {
 
 <p align="center">
   Last refresh:
-  <b>2021-11-07T00:10:34Z</b>
+  <b>2021-11-08T00:10:17Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
