@@ -50,11 +50,11 @@ export default class MyProfile {
 
 ## 🤹 Recent Activity
 ```
+⬆️ Pushed 1 commit to Yimura/GTA5-Backend
 💪 Opened PR #10 in ysfchn/SamFetch
 ⬆️ Pushed 2 commits to Yimura/SamFetch
 ⬆️ Pushed 1 commit to Damon-Org/MusicBot
 ⬆️ Pushed 2 commits to Damon-Org/MusicBot
-⬆️ Pushed 1 commit to Damon-Org/TrackDeezer
 ```
 ## 🌟 Cool Repos
 ```
@@ -73,7 +73,7 @@ export default class MyProfile {
 
 <p align="center">
   Last refresh:
-  <b>2021-11-27T00:10:10Z</b>
+  <b>2021-11-28T00:12:13Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
