@@ -50,11 +50,11 @@ export default class MyProfile {
 
 ## 🤹 Recent Activity
 ```
+⬆️ Pushed 2 commits to Yimura/Crypto.com-Implementation
+⬆️ Pushed 5 commits to Yimura/Crypto.com-Implementation
+⬆️ Pushed 4 commits to Yimura/Crypto.com-Implementation
+⬆️ Pushed 1 commit to Yimura/Crypto.com-Implementation
 ⬆️ Pushed 3 commits to Yimura/Crypto.com-Implementation
-⬆️ Pushed 1 commit to Yimura/GTA5-Backend
-⬆️ Pushed 1 commit to Yimura/GTA5-Backend
-💪 Opened PR #10 in ysfchn/SamFetch
-⬆️ Pushed 2 commits to Yimura/SamFetch
 ```
 ## 🌟 Cool Repos
 ```
@@ -62,7 +62,7 @@ export default class MyProfile {
 ⭐️ 11 📦 Yimura/YimMenu
 ⭐️ 6  📦 Yimura/Scraper
 ⭐️ 4  📦 Yimura/Injector
-⭐️ 2  📦 Yimura/node-tunein-api
+⭐️ 2  📦 Yimura/Crypto.com-Implementation
 ```
 ## Coding Activity
 <p align="center">
@@ -73,7 +73,7 @@ export default class MyProfile {
 
 <p align="center">
   Last refresh:
-  <b>2021-11-30T00:10:55Z</b>
+  <b>2021-12-01T00:12:12Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
