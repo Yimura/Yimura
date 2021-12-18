@@ -50,10 +50,10 @@ export default class MyProfile {
 
 ## 🤹 Recent Activity
 ```
-⬆️ Pushed 2 commits to MCT-MLOps-project/pipeline
-🗣 Commented on #8 in Yimura/YimMenu
-⬆️ Pushed 1 commit to Yimura/YimMenu
-🗣 Commented on #8 in Yimura/YimMenu
+⬆️ Pushed 2 commits to Yimura/GTAV-Classes
+⬆️ Pushed 2 commits to Yimura/YimMenu
+🎉 Merged PR #9 in Yimura/YimMenu
+🗣 Commented on #9 in Yimura/YimMenu
 🗣 Commented on #8 in Yimura/YimMenu
 ```
 ## 🌟 Cool Repos
@@ -73,7 +73,7 @@ export default class MyProfile {
 
 <p align="center">
   Last refresh:
-  <b>2021-12-17T00:11:40Z</b>
+  <b>2021-12-18T00:11:09Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
