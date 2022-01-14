@@ -50,11 +50,11 @@ export default class MyProfile {
 
 ## 🤹 Recent Activity
 ```
+⬆️ Pushed 1 commit to Damon-Org/CommandRegistrar
 🗣 Commented on #31 in Yimura/YimMenu
 ⬆️ Pushed 2 commits to Yimura/YimMenu
 ⬆️ Pushed 13 commits to Yimura/YimMenu
 🎉 Merged PR #44 in Yimura/YimMenu
-⬆️ Pushed 1 commit to Yimura-Forks/YimMenu
 ```
 ## 🌟 Cool Repos
 ```
@@ -73,7 +73,7 @@ export default class MyProfile {
 
 <p align="center">
   Last refresh:
-  <b>2022-01-13T00:12:46Z</b>
+  <b>2022-01-14T00:12:28Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
