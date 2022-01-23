@@ -33,7 +33,7 @@ export default class MyProfile {
    */
   get socials() {
     return {
-      "discord": "Yimura#6969",
+      "discord": "https://discord.gg/EG4zHFR", // Don't contact me in my DM's I will block you
       "steam"  : "steamcommunity.com/id/y1mura",
       "twitter": "@Yimura9"
     }
