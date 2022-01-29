@@ -50,15 +50,15 @@ export default class MyProfile {
 
 ## 🤹 Recent Activity
 ```
-⬆️ Pushed 4 commits to Yimura/GTAV-Classes
-⬆️ Pushed 2 commits to Yimura/YimMenu
-⬆️ Pushed 1 commit to Yimura/GTAV-Classes
-⬆️ Pushed 1 commit to Research-Project-Crypto/docs
-⬆️ Pushed 1 commit to Research-Project-Crypto/.github
+⬆️ Pushed 1 commit to Yimura/ArchInstall
+❗️ Opened issue #12 in DottieDot/GTAV-NativeDB
+❗️ Opened issue #11 in DottieDot/GTAV-NativeDB
+💪 Opened PR #10 in DottieDot/GTAV-NativeDB
+⬆️ Pushed 1 commit to Yimura-Forks/GTAV-NativeDB
 ```
 ## 🌟 Cool Repos
 ```
-⭐️ 40 📦 Yimura/YimMenu
+⭐️ 41 📦 Yimura/YimMenu
 ⭐️ 29 📦 Yimura/GTAV-Classes
 ⭐️ 10 📦 Yimura/Injector
 ⭐️ 6  📦 Yimura/Scraper
@@ -73,7 +73,7 @@ export default class MyProfile {
 
 <p align="center">
   Last refresh:
-  <b>2022-01-28T00:11:31Z</b>
+  <b>2022-01-29T00:10:19Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
