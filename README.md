@@ -50,11 +50,11 @@ export default class MyProfile {
 
 ## 🤹 Recent Activity
 ```
-❗️ Opened issue #114 in Yimura/YimMenu
+⬆️ Pushed 2 commits to Yimura/YimMenu
+🗣 Commented on #111 in Yimura/YimMenu
+🗣 Commented on #111 in Yimura/YimMenu
+🗣 Commented on #108 in Yimura/YimMenu
 ⬆️ Pushed 1 commit to Yimura/YimMenu
-🎉 Merged PR #113 in Yimura/YimMenu
-💪 Opened PR #113 in Yimura/YimMenu
-⬆️ Pushed 1 commit to Yimura-Forks/YimMenu
 ```
 ## 🌟 Cool Repos
 ```
@@ -73,7 +73,7 @@ export default class MyProfile {
 
 <p align="center">
   Last refresh:
-  <b>2022-03-16T00:15:13Z</b>
+  <b>2022-03-17T00:15:17Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
