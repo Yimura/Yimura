@@ -60,7 +60,7 @@ export default class MyProfile {
 ```
 ⭐️ 59 📦 Yimura/GTAV-Classes
 ⭐️ 15 📦 Yimura/Injector
-⭐️ 11 📦 Yimura/Scraper
+⭐️ 12 📦 Yimura/Scraper
 ⭐️ 5  📦 DaniTRDev/InternalMenuTemplate
 ⭐️ 4  📦 Yimura/ArchInstall
 ```
@@ -73,7 +73,7 @@ export default class MyProfile {
 
 <p align="center">
   Last refresh:
-  <b>2022-08-05T01:59:49Z</b>
+  <b>2022-08-06T01:55:40Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
