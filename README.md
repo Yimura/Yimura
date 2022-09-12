@@ -50,11 +50,11 @@ export default class MyProfile {
 
 ## 🤹 Recent Activity
 ```
+⬆️ Pushed 13 commits to Spyral-Org/Base
 ⬆️ Pushed 1 commit to Yimura/GTAV-Classes
 🎉 Merged PR #35 in Yimura/GTAV-Classes
 ⬆️ Pushed 1 commit to Spyral-Org/Base
 ❗️ Closed issue #3 in Yimura/gtav-sigscan-action
-🗣 Commented on #3 in Yimura/gtav-sigscan-action
 ```
 ## 🌟 Cool Repos
 ```
@@ -73,7 +73,7 @@ export default class MyProfile {
 
 <p align="center">
   Last refresh:
-  <b>2022-09-11T00:22:31Z</b>
+  <b>2022-09-12T00:22:04Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
