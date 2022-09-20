@@ -50,11 +50,11 @@ export default class MyProfile {
 
 ## 🤹 Recent Activity
 ```
+💪 Opened PR #450 in YimMenu/YimMenu
 ⬆️ Pushed 1 commit to Spyral-Org/Base
 ⬆️ Pushed 1 commit to Spyral-Org/Base
 ⬆️ Pushed 1 commit to Spyral-Org/Base
 ⬆️ Pushed 1 commit to Spyral-Org/Base
-🗣 Commented on #416 in YimMenu/YimMenu
 ```
 ## 🌟 Cool Repos
 ```
@@ -73,7 +73,7 @@ export default class MyProfile {
 
 <p align="center">
   Last refresh:
-  <b>2022-09-19T00:23:13Z</b>
+  <b>2022-09-20T00:26:14Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
