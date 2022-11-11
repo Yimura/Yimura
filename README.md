@@ -50,11 +50,11 @@ export default class MyProfile {
 
 ## 🤹 Recent Activity
 ```
-⬆️ Pushed 1 commit to Yimura/GTA5Base
-⬆️ Pushed 5 commits to Yimura/GTA5Base
-🎉 Merged PR #66 in Yimura/GTAV-Classes
-⬆️ Pushed 1 commit to Yimura/GTAV-Classes
-💪 Opened PR #66 in Yimura/GTAV-Classes
+⬆️ Pushed 1 commit to YimMenu/YimMenu
+🎉 Merged PR #407 in YimMenu/YimMenu
+⬆️ Pushed 32 commits to SkiddyToast/YimMenu
+❗️ Closed issue #540 in YimMenu/YimMenu
+⬆️ Pushed 4 commits to Yimura/GTA5Base
 ```
 ## 🌟 Cool Repos
 ```
@@ -73,7 +73,7 @@ export default class MyProfile {
 
 <p align="center">
   Last refresh:
-  <b>2022-11-10T00:23:09Z</b>
+  <b>2022-11-11T00:25:15Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
