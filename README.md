@@ -58,9 +58,9 @@ export default class MyProfile {
 ```
 ## 🌟 Cool Repos
 ```
-⭐️ 454 📦 YimMenu/YimMenu
-⭐️ 120 📦 Yimura/GTAV-Classes
-⭐️ 27  📦 Yimura/Scraper
+⭐️ 455 📦 YimMenu/YimMenu
+⭐️ 121 📦 Yimura/GTAV-Classes
+⭐️ 26  📦 Yimura/Scraper
 ⭐️ 25  📦 Yimura/Injector
 ⭐️ 6   📦 Yimura/ArchInstall
 ```
@@ -73,7 +73,7 @@ export default class MyProfile {
 
 <p align="center">
   Last refresh:
-  <b>2023-04-10T00:18:16Z</b>
+  <b>2023-04-11T00:18:57Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
