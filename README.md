@@ -50,11 +50,11 @@ export default class MyProfile {
 
 ## 🤹 Recent Activity
 ```
-🗣 Commented on #1311 in YimMenu/YimMenu
-🗣 Commented on #1311 in YimMenu/YimMenu
-🗣 Commented on #1311 in YimMenu/YimMenu
-🗣 Commented on #1309 in YimMenu/YimMenu
+❗️ Closed issue #1312 in YimMenu/YimMenu
+🗣 Commented on #1312 in YimMenu/YimMenu
+❗️ Closed issue #1303 in YimMenu/YimMenu
 ⬆️ Pushed 1 commit to YimMenu/YimMenu
+🎉 Merged PR #1317 in YimMenu/YimMenu
 ```
 ## 🌟 Cool Repos
 ```
@@ -73,7 +73,7 @@ export default class MyProfile {
 
 <p align="center">
   Last refresh:
-  <b>2023-05-01T00:20:26Z</b>
+  <b>2023-05-02T00:18:36Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
