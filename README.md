@@ -50,16 +50,16 @@ export default class MyProfile {
 
 ## 🤹 Recent Activity
 ```
-⬆️ Pushed 1 commit to Yimura/Lancache-Prefill-Cron
-⬆️ Pushed 1 commit to Yimura/Lancache-Prefill-Cron
-⬆️ Pushed 1 commit to Yimura/Lancache-Prefill-Cron
-⬆️ Pushed 1 commit to Yimura/Lancache-Prefill-Cron
-⬆️ Pushed 1 commit to Yimura/Lancache-Prefill-Cron
+⬆️ Pushed 2 commits to YimMenu/DBot
+❗️ Opened issue #1 in Yimura/McServer
+⬆️ Pushed 1 commit to Yimura/McServer
+⬆️ Pushed 1 commit to Yimura/McServer
+⬆️ Pushed 1 commit to Yimura/McServer
 ```
 ## 🌟 Cool Repos
 ```
-⭐️ 493 📦 YimMenu/YimMenu
-⭐️ 128 📦 Yimura/GTAV-Classes
+⭐️ 494 📦 YimMenu/YimMenu
+⭐️ 129 📦 Yimura/GTAV-Classes
 ⭐️ 27  📦 Yimura/Scraper
 ⭐️ 25  📦 Yimura/Injector
 ⭐️ 6   📦 Yimura/ArchInstall
@@ -73,7 +73,7 @@ export default class MyProfile {
 
 <p align="center">
   Last refresh:
-  <b>2023-05-19T00:18:18Z</b>
+  <b>2023-05-20T00:17:14Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
