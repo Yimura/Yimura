@@ -50,16 +50,16 @@ export default class MyProfile {
 
 ## 🤹 Recent Activity
 ```
-🗣 Commented on #41 in YimMenu/Translations
-🗣 Commented on #1471 in YimMenu/YimMenu
-🗣 Commented on #1535 in YimMenu/YimMenu
-🗣 Commented on #1540 in YimMenu/YimMenu
+❗️ Closed issue #754 in YimMenu/YimMenu
+⬆️ Pushed 1 commit to YimMenu/YimMenu
+🎉 Merged PR #1572 in YimMenu/YimMenu
 🗣 Commented on #1552 in YimMenu/YimMenu
+⬆️ Pushed 1 commit to Yimura/GTAV-Classes
 ```
 ## 🌟 Cool Repos
 ```
-⭐️ 655 📦 YimMenu/YimMenu
-⭐️ 136 📦 Yimura/GTAV-Classes
+⭐️ 660 📦 YimMenu/YimMenu
+⭐️ 137 📦 Yimura/GTAV-Classes
 ⭐️ 30  📦 Yimura/Scraper
 ⭐️ 26  📦 Yimura/Injector
 ⭐️ 6   📦 Yimura/ArchInstall
@@ -73,7 +73,7 @@ export default class MyProfile {
 
 <p align="center">
   Last refresh:
-  <b>2023-06-30T00:21:34Z</b>
+  <b>2023-07-01T00:25:03Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yimura&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
