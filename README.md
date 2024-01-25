@@ -50,15 +50,15 @@ public:
 
 ## 🤹 Recent Activity
 ```
+⬆️ Pushed 1 commit to Yimura/ArchInstall
 ⬆️ Pushed 1 commit to YimMenu/YimMenu
 🎉 Merged PR #2480 in YimMenu/YimMenu
 ⬆️ Pushed 1 commit to YimMenu/YimMenu
 🎉 Merged PR #2652 in YimMenu/YimMenu
-🗣 Commented on #40 in YimMenu-Lua/submission
 ```
 ## 🌟 Cool Repos
 ```
-⭐️ 935 📦 YimMenu/YimMenu
+⭐️ 937 📦 YimMenu/YimMenu
 ⭐️ 170 📦 Yimura/GTAV-Classes
 ⭐️ 43  📦 Yimura/Scraper
 ⭐️ 34  📦 Yimura/Injector
