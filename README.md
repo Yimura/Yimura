@@ -50,11 +50,11 @@ public:
 
 ## 🤹 Recent Activity
 ```
+⬆️ Pushed 1 commit to Yimura/GTAV-Classes
+🎉 Merged PR #158 in Yimura/GTAV-Classes
 ⬆️ Pushed 1 commit to YimMenu/YimMenu
 🎉 Merged PR #2665 in YimMenu/YimMenu
 ⬆️ Pushed 1 commit to YimMenu/Translations
-🎉 Merged PR #110 in YimMenu/Translations
-⬆️ Pushed 1 commit to YimMenu/YimMenu
 ```
 ## 🌟 Cool Repos
 ```
