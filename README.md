@@ -50,16 +50,16 @@ public:
 
 ## 🤹 Recent Activity
 ```
-💪 Opened PR #5 in Yimura/crackerjack-docker
 ⬆️ Pushed 1 commit to Yimura/crackerjack-docker
-🎉 Merged PR #1 in Yimura/crackerjack-docker
-❗️ Opened issue #4 in Yimura/crackerjack-docker
-❗️ Opened issue #3 in Yimura/crackerjack-docker
+⬆️ Pushed 1 commit to Yimura/crackerjack-docker
+⬆️ Pushed 1 commit to Yimura/crackerjack-docker
+⬆️ Pushed 1 commit to Yimura/crackerjack-docker
+❗️ Closed issue #4 in Yimura/crackerjack-docker
 ```
 ## 🌟 Cool Repos
 ```
-⭐️ 966 📦 YimMenu/YimMenu
-⭐️ 173 📦 Yimura/GTAV-Classes
+⭐️ 967 📦 YimMenu/YimMenu
+⭐️ 174 📦 Yimura/GTAV-Classes
 ⭐️ 42  📦 Yimura/Scraper
 ⭐️ 34  📦 Yimura/Injector
 ⭐️ 7   📦 Yimura/AsyncLogger
