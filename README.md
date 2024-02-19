@@ -50,11 +50,11 @@ public:
 
 ## 🤹 Recent Activity
 ```
+⬆️ Pushed 1 commit to YimMenu/YimMenu
+❗️ Closed issue #2704 in YimMenu/YimMenu
+🎉 Merged PR #2716 in YimMenu/YimMenu
 🗣 Commented on #116 in YimMenu/Translations
 🗣 Commented on #116 in YimMenu/Translations
-🗣 Commented on #116 in YimMenu/Translations
-⬆️ Pushed 1 commit to Yimura/crackerjack-docker
-🎉 Merged PR #8 in Yimura/crackerjack-docker
 ```
 ## 🌟 Cool Repos
 ```
