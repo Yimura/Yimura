@@ -60,7 +60,7 @@ public:
 ```
 ⭐️ 984 📦 YimMenu/YimMenu
 ⭐️ 177 📦 Yimura/GTAV-Classes
-⭐️ 43  📦 Yimura/Scraper
+⭐️ 44  📦 Yimura/Scraper
 ⭐️ 33  📦 Yimura/Injector
 ⭐️ 7   📦 Yimura/AsyncLogger
 ```
