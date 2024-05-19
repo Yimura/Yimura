@@ -50,15 +50,15 @@ public:
 
 ## 🤹 Recent Activity
 ```
-🗣 Commented on #1 in gir489returns/DumpHelldiversGeneratedData
-💪 Opened PR #1 in gir489returns/DumpHelldiversGeneratedData
-⬆️ Pushed 2 commits to Yimura/crackerjack-docker
-⬆️ Pushed 1 commit to gir489returns/YimMenu
-🗣 Commented on #159 in YimMenu/Translations
+⬆️ Pushed 1 commit to YimMenu/Translations
+🎉 Merged PR #160 in YimMenu/Translations
+⬆️ Pushed 1 commit to YimMenu/YimMenu
+🎉 Merged PR #3139 in YimMenu/YimMenu
+🗣 Commented on #3147 in YimMenu/YimMenu
 ```
 ## 🌟 Cool Repos
 ```
-⭐️ 1077 📦 YimMenu/YimMenu
+⭐️ 1080 📦 YimMenu/YimMenu
 ⭐️ 184  📦 Yimura/GTAV-Classes
 ⭐️ 49   📦 Yimura/Scraper
 ⭐️ 34   📦 Yimura/Injector
