@@ -59,7 +59,7 @@ public:
 ## 🌟 Cool Repos
 ```
 ⭐️ 1106 📦 YimMenu/YimMenu
-⭐️ 185  📦 Yimura/GTAV-Classes
+⭐️ 186  📦 Yimura/GTAV-Classes
 ⭐️ 49   📦 Yimura/Scraper
 ⭐️ 34   📦 Yimura/Injector
 ⭐️ 7    📦 Yimura/GTA5-Backend
