@@ -50,15 +50,15 @@ public:
 
 ## 🤹 Recent Activity
 ```
-⬆️ Pushed 1 commit to YimMenu/YimMenu
-🎉 Merged PR #3300 in YimMenu/YimMenu
 ⬆️ Pushed 1 commit to Yimura/GTAV-Classes
-🎉 Merged PR #181 in Yimura/GTAV-Classes
+🎉 Merged PR #182 in Yimura/GTAV-Classes
+❗️ Closed issue #3302 in YimMenu/YimMenu
+❗️ Closed issue #3302 in YimMenu/YimMenu
 ⬆️ Pushed 1 commit to YimMenu/YimMenu
 ```
 ## 🌟 Cool Repos
 ```
-⭐️ 1235 📦 YimMenu/YimMenu
+⭐️ 1236 📦 YimMenu/YimMenu
 ⭐️ 189  📦 Yimura/GTAV-Classes
 ⭐️ 50   📦 Yimura/Scraper
 ⭐️ 36   📦 Yimura/Injector
