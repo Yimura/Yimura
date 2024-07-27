@@ -50,17 +50,17 @@ public:
 
 ## 🤹 Recent Activity
 ```
-🗣 Commented on #3433 in YimMenu/YimMenu
-🗣 Commented on #3433 in YimMenu/YimMenu
+❗️ Closed issue #3433 in YimMenu/YimMenu
+❗️ Closed issue #3427 in YimMenu/YimMenu
 ⬆️ Pushed 1 commit to YimMenu/YimMenu
-❗️ Closed issue #3423 in YimMenu/YimMenu
-🎉 Merged PR #3428 in YimMenu/YimMenu
+🎉 Merged PR #3434 in YimMenu/YimMenu
+⬆️ Pushed 1 commit to YimMenu/YimMenu
 ```
 ## 🌟 Cool Repos
 ```
-⭐️ 1277 📦 YimMenu/YimMenu
-⭐️ 192  📦 Yimura/GTAV-Classes
+⭐️ 1279 📦 YimMenu/YimMenu
+⭐️ 191  📦 Yimura/GTAV-Classes
 ⭐️ 51   📦 Yimura/Scraper
-⭐️ 36   📦 Yimura/Injector
+⭐️ 35   📦 Yimura/Injector
 ⭐️ 7    📦 Yimura/GTA5-Backend
 ```
