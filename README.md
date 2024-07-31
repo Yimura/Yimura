@@ -50,15 +50,15 @@ public:
 
 ## 🤹 Recent Activity
 ```
-🗣 Commented on #3468 in YimMenu/YimMenu
-❗️ Closed issue #3227 in YimMenu/YimMenu
 ⬆️ Pushed 1 commit to YimMenu/YimMenu
-🎉 Merged PR #3466 in YimMenu/YimMenu
-⬆️ Pushed 1 commit to YimMenu/YimMenu
+❗️ Closed issue #3465 in YimMenu/YimMenu
+🎉 Merged PR #3473 in YimMenu/YimMenu
+🗣 Commented on #3477 in YimMenu/YimMenu
+❗️ Closed issue #3477 in YimMenu/YimMenu
 ```
 ## 🌟 Cool Repos
 ```
-⭐️ 1294 📦 YimMenu/YimMenu
+⭐️ 1295 📦 YimMenu/YimMenu
 ⭐️ 191  📦 Yimura/GTAV-Classes
 ⭐️ 51   📦 Yimura/Scraper
 ⭐️ 35   📦 Yimura/Injector
