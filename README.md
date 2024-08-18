@@ -50,11 +50,11 @@ public:
 
 ## 🤹 Recent Activity
 ```
-🗣 Commented on #3590 in YimMenu/YimMenu
+❗️ Closed issue #3581 in YimMenu/YimMenu
+❗️ Closed issue #3581 in YimMenu/YimMenu
+❗️ Closed issue #3545 in YimMenu/YimMenu
 ⬆️ Pushed 1 commit to YimMenu/YimMenu
-🎉 Merged PR #3565 in YimMenu/YimMenu
-❗️ Closed issue #3538 in YimMenu/YimMenu
-⬆️ Pushed 1 commit to YimMenu/YimMenu
+🎉 Merged PR #3552 in YimMenu/YimMenu
 ```
 ## 🌟 Cool Repos
 ```
