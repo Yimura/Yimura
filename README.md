@@ -60,7 +60,7 @@ public:
 ```
 ⭐️ 1350 📦 YimMenu/YimMenu
 ⭐️ 197  📦 Yimura/GTAV-Classes
-⭐️ 52   📦 Yimura/Scraper
+⭐️ 51   📦 Yimura/Scraper
 ⭐️ 36   📦 Yimura/Injector
 ⭐️ 7    📦 Yimura/GTA5-Backend
 ```
