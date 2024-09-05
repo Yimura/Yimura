@@ -50,11 +50,11 @@ public:
 
 ## 🤹 Recent Activity
 ```
+🎉 Merged PR #7 in Yimura/Fabric-StackMob
+❗️ Closed issue #4 in Yimura/Fabric-StackMob
 ⬆️ Pushed 1 commit to Yimura/Fabric-StackMob
-⬆️ Pushed 1 commit to YimMenu/YimMenu
-🎉 Merged PR #3650 in YimMenu/YimMenu
-⬆️ Pushed 1 commit to YimMenu/YimMenu
-🎉 Merged PR #3649 in YimMenu/YimMenu
+💪 Opened PR #8 in Yimura/Fabric-StackMob
+🗣 Commented on #1 in Yimura/Fabric-StackMob
 ```
 ## 🌟 Cool Repos
 ```
