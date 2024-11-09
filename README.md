@@ -50,11 +50,11 @@ public:
 
 ## 🤹 Recent Activity
 ```
+❗️ Opened issue #6 in Yimura/FridaMgr
+❗️ Opened issue #5 in Yimura/FridaMgr
+❗️ Opened issue #4 in Yimura/FridaMgr
 ⬆️ Pushed 1 commit to YimMenu/YimMenu
 ⬆️ Pushed 1 commit to Yimura/Android-Build-Env
-🗣 Commented on #8 in Yimura/Injector
-❗️ Closed issue #8 in Yimura/Injector
-⬆️ Pushed 1 commit to Yimura/GTAV-Classes
 ```
 ## 🌟 Cool Repos
 ```
