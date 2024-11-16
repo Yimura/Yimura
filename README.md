@@ -51,14 +51,14 @@ public:
 ## 🤹 Recent Activity
 ```
 🗣 Commented on #255 in Snowiiii/Pumpkin
+🗣 Commented on #255 in Snowiiii/Pumpkin
 ⬆️ Pushed 1 commit to Yimura/Pumpkin
 ⬆️ Pushed 1 commit to Yimura/Pumpkin
 💪 Opened PR #255 in Snowiiii/Pumpkin
-❗️ Opened issue #6 in Yimura/FridaMgr
 ```
 ## 🌟 Cool Repos
 ```
-⭐️ 1555 📦 YimMenu/YimMenu
+⭐️ 1556 📦 YimMenu/YimMenu
 ⭐️ 196  📦 Yimura/GTAV-Classes
 ⭐️ 51   📦 Yimura/Scraper
 ⭐️ 36   📦 Yimura/Injector
