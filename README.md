@@ -50,15 +50,15 @@ public:
 
 ## 🤹 Recent Activity
 ```
-💪 Opened PR #309 in Snowiiii/Pumpkin
-💪 Opened PR #308 in Snowiiii/Pumpkin
-⬆️ Pushed 24 commits to Yimura/Pumpkin
-🗣 Commented on #255 in Snowiiii/Pumpkin
-🗣 Commented on #255 in Snowiiii/Pumpkin
+⬆️ Pushed 1 commit to Yimura/FridaMgr
+🎉 Merged PR #10 in Yimura/FridaMgr
+💪 Opened PR #10 in Yimura/FridaMgr
+⬆️ Pushed 1 commit to Yimura/FridaMgr
+🗣 Commented on #6 in Yimura/FridaMgr
 ```
 ## 🌟 Cool Repos
 ```
-⭐️ 1558 📦 YimMenu/YimMenu
+⭐️ 1559 📦 YimMenu/YimMenu
 ⭐️ 196  📦 Yimura/GTAV-Classes
 ⭐️ 51   📦 Yimura/Scraper
 ⭐️ 36   📦 Yimura/Injector
