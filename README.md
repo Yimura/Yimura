@@ -50,11 +50,11 @@ public:
 
 ## 🤹 Recent Activity
 ```
+🗣 Commented on #11 in Yimura/FridaMgr
+🗣 Commented on #5 in Yimura/FridaMgr
+❗️ Closed issue #5 in Yimura/FridaMgr
 ⬆️ Pushed 1 commit to Yimura/FridaMgr
 🎉 Merged PR #10 in Yimura/FridaMgr
-💪 Opened PR #10 in Yimura/FridaMgr
-⬆️ Pushed 1 commit to Yimura/FridaMgr
-🗣 Commented on #6 in Yimura/FridaMgr
 ```
 ## 🌟 Cool Repos
 ```
@@ -62,5 +62,5 @@ public:
 ⭐️ 196  📦 Yimura/GTAV-Classes
 ⭐️ 51   📦 Yimura/Scraper
 ⭐️ 36   📦 Yimura/Injector
-⭐️ 7    📦 Yimura/GTA5-Backend
+⭐️ 9    📦 Yimura/FridaMgr
 ```
