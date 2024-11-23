@@ -50,11 +50,11 @@ public:
 
 ## 🤹 Recent Activity
 ```
+🗣 Commented on #11 in Yimura/FridaMgr
 🗣 Commented on #323 in Snowiiii/Pumpkin
 🗣 Commented on #323 in Snowiiii/Pumpkin
 🗣 Commented on #11 in Yimura/FridaMgr
 🗣 Commented on #5 in Yimura/FridaMgr
-❗️ Closed issue #5 in Yimura/FridaMgr
 ```
 ## 🌟 Cool Repos
 ```
