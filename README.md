@@ -50,11 +50,11 @@ public:
 
 ## 🤹 Recent Activity
 ```
-🗣 Commented on #368 in Snowiiii/Pumpkin
-❗️ Opened issue #12 in Yimura/FridaMgr
-⬆️ Pushed 12 commits to Yimura/Pumpkin
-🗣 Commented on #11 in Yimura/FridaMgr
-🗣 Commented on #323 in Snowiiii/Pumpkin
+⬆️ Pushed 1 commit to Yimura/Ptumpkin
+⬆️ Pushed 1 commit to Yimura/Ptumpkin
+🗣 Commented on #408 in Snowiiii/Pumpkin
+🗣 Commented on #1609 in pterodactyl/panel
+❗️ Closed issue #81 in YimMenu-Lua/submission
 ```
 ## 🌟 Cool Repos
 ```
