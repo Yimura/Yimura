@@ -50,11 +50,11 @@ public:
 
 ## 🤹 Recent Activity
 ```
+🗣 Commented on #11 in Yimura/FridaMgr
+❗️ Closed issue #11 in Yimura/FridaMgr
 🗣 Commented on #425 in Pumpkin-MC/Pumpkin
 🗣 Commented on #425 in Snowiiii/Pumpkin
 🗣 Commented on #425 in Snowiiii/Pumpkin
-⬆️ Pushed 1 commit to Yimura/Ptumpkin
-⬆️ Pushed 1 commit to Yimura/Ptumpkin
 ```
 ## 🌟 Cool Repos
 ```
@@ -62,5 +62,5 @@ public:
 ⭐️ 187  📦 Yimura/GTAV-Classes
 ⭐️ 51   📦 Yimura/Scraper
 ⭐️ 35   📦 Yimura/Injector
-⭐️ 11   📦 Yimura/FridaMgr
+⭐️ 12   📦 Yimura/FridaMgr
 ```
