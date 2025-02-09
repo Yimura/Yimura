@@ -51,7 +51,6 @@ public:
 ## 🤹 Recent Activity
 ```
 🗣 Commented on #60 in agriculturedev/guben-cockpit
-📦 Released "Test" in Yimura/react-native-ui-lib
 ```
 ## 🌟 Cool Repos
 ```
