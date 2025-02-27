@@ -50,6 +50,8 @@ public:
 
 ## 🤹 Recent Activity
 ```
+🗣 Commented on #594 in Pumpkin-MC/Pumpkin
+❗️ Opened issue #594 in Pumpkin-MC/Pumpkin
 🗣 Commented on #538 in Pumpkin-MC/Pumpkin
 🗣 Commented on #60 in agriculturedev/guben-cockpit
 ```
