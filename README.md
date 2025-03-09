@@ -53,13 +53,12 @@ public:
 🗣 Commented on #594 in Pumpkin-MC/Pumpkin
 ❗️ Opened issue #594 in Pumpkin-MC/Pumpkin
 🗣 Commented on #538 in Pumpkin-MC/Pumpkin
-🗣 Commented on #60 in agriculturedev/guben-cockpit
 ```
 ## 🌟 Cool Repos
 ```
-⭐️ 1582 📦 YimMenu/YimMenu
+⭐️ 1581 📦 YimMenu/YimMenu
 ⭐️ 187  📦 Yimura/GTAV-Classes
-⭐️ 52   📦 Yimura/Scraper
+⭐️ 51   📦 Yimura/Scraper
 ⭐️ 35   📦 Yimura/Injector
 ⭐️ 15   📦 Yimura/FridaMgr
 ```
