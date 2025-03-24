@@ -50,6 +50,8 @@ public:
 
 ## 🤹 Recent Activity
 ```
+🗣 Commented on #16 in YimMenu/YimMenuV2
+❗️ Closed issue #16 in YimMenu/YimMenuV2
 🗣 Commented on #594 in Pumpkin-MC/Pumpkin
 ❗️ Opened issue #594 in Pumpkin-MC/Pumpkin
 ```
