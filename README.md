@@ -50,10 +50,11 @@ public:
 
 ## 🤹 Recent Activity
 ```
+⬆️ Pushed 1 commit to Yimura/FridaMgr
+⬆️ Pushed 1 commit to Yimura/FridaMgr
+🎉 Merged PR #13 in Yimura/FridaMgr
 🗣 Commented on #16 in YimMenu/YimMenuV2
 ❗️ Closed issue #16 in YimMenu/YimMenuV2
-🗣 Commented on #594 in Pumpkin-MC/Pumpkin
-❗️ Opened issue #594 in Pumpkin-MC/Pumpkin
 ```
 ## 🌟 Cool Repos
 ```
