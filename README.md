@@ -50,11 +50,11 @@ public:
 
 ## 🤹 Recent Activity
 ```
-⬆️ Pushed 1 commit to Yimura/crackerjack
-⬆️ Pushed 1 commit to Yimura/crackerjack
-⬆️ Pushed 0 commit to Yimura/FridaMgr
-⬆️ Pushed 1 commit to Yimura/FridaMgr
-⬆️ Pushed 1 commit to Yimura/FridaMgr
+🗣 Commented on #53 in YimMenu/YimMenuV2
+🗣 Commented on #53 in YimMenu/YimMenuV2
+🗣 Commented on #55 in YimMenu/YimMenuV2
+🗣 Commented on #54 in YimMenu/YimMenuV2
+❗️ Closed issue #54 in YimMenu/YimMenuV2
 ```
 ## 🌟 Cool Repos
 ```
