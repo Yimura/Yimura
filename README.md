@@ -50,11 +50,11 @@ public:
 
 ## 🤹 Recent Activity
 ```
+🗣 Commented on #680 in Pumpkin-MC/Pumpkin
+🗣 Commented on #693 in Pumpkin-MC/Pumpkin
 🗣 Commented on #185 in YimMenu/YimMenuV2
 ❌ Closed PR #185 in YimMenu/YimMenuV2
 🗣 Commented on #153 in YimMenu/YimMenuV2
-❌ Closed PR #153 in YimMenu/YimMenuV2
-🗣 Commented on #203 in YimMenu/YimMenuV2
 ```
 ## 🌟 Cool Repos
 ```
