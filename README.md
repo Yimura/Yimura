@@ -50,15 +50,15 @@ public:
 
 ## 🤹 Recent Activity
 ```
+🗣 Commented on #636 in capacitor-community/sqlite
 🗣 Commented on #680 in Pumpkin-MC/Pumpkin
 🗣 Commented on #693 in Pumpkin-MC/Pumpkin
 🗣 Commented on #185 in YimMenu/YimMenuV2
 ❌ Closed PR #185 in YimMenu/YimMenuV2
-🗣 Commented on #153 in YimMenu/YimMenuV2
 ```
 ## 🌟 Cool Repos
 ```
-⭐️ 1581 📦 YimMenu/YimMenu
+⭐️ 1580 📦 YimMenu/YimMenu
 ⭐️ 185  📦 Yimura/GTAV-Classes
 ⭐️ 51   📦 Yimura/Scraper
 ⭐️ 34   📦 Yimura/Injector
