@@ -50,15 +50,15 @@ public:
 
 ## 🤹 Recent Activity
 ```
+🗣 Commented on #290 in YimMenu/YimMenuV2
+❗️ Closed issue #290 in YimMenu/YimMenuV2
 🗣 Commented on #638 in capacitor-community/sqlite
 🗣 Commented on #273 in YimMenu/YimMenuV2
 ❗️ Opened issue #107 in azeezat/react-native-select
-🗣 Commented on #636 in capacitor-community/sqlite
-🗣 Commented on #636 in capacitor-community/sqlite
 ```
 ## 🌟 Cool Repos
 ```
-⭐️ 1585 📦 YimMenu/YimMenu
+⭐️ 1586 📦 YimMenu/YimMenu
 ⭐️ 185  📦 Yimura/GTAV-Classes
 ⭐️ 51   📦 Yimura/Scraper
 ⭐️ 34   📦 Yimura/Injector
