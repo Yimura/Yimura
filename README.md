@@ -50,15 +50,15 @@ public:
 
 ## 🤹 Recent Activity
 ```
+❗️ Closed issue #2 in Yimura/Yimura
+⬆️ Pushed 1 commit to Yimura/Arch-OverlayRoot
+⬆️ Pushed 1 commit to Yimura/Arch-OverlayRoot
 🗣 Commented on #290 in YimMenu/YimMenuV2
 ❗️ Closed issue #290 in YimMenu/YimMenuV2
-🗣 Commented on #638 in capacitor-community/sqlite
-🗣 Commented on #273 in YimMenu/YimMenuV2
-❗️ Opened issue #107 in azeezat/react-native-select
 ```
 ## 🌟 Cool Repos
 ```
-⭐️ 1585 📦 YimMenu/YimMenu
+⭐️ 1584 📦 YimMenu/YimMenu
 ⭐️ 185  📦 Yimura/GTAV-Classes
 ⭐️ 51   📦 Yimura/Scraper
 ⭐️ 34   📦 Yimura/Injector
