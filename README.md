@@ -50,15 +50,15 @@ public:
 
 ## 🤹 Recent Activity
 ```
+🗣 Commented on #343 in YimMenu/YimMenuV2
 📦 Released "v0.0.8" in Yimura/AsyncLogger
 ⬆️ Pushed 1 commit to Yimura/AsyncLogger
 ⬆️ Pushed 1 commit to Yimura/Arch-OverlayRoot
 ⬆️ Pushed 1 commit to Yimura/Arch-OverlayRoot
-🗣 Commented on #625 in capacitor-community/sqlite
 ```
 ## 🌟 Cool Repos
 ```
-⭐️ 1589 📦 YimMenu/YimMenu
+⭐️ 1590 📦 YimMenu/YimMenu
 ⭐️ 185  📦 Yimura/GTAV-Classes
 ⭐️ 51   📦 Yimura/Scraper
 ⭐️ 35   📦 Yimura/Injector
