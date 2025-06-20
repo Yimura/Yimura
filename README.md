@@ -50,11 +50,11 @@ public:
 
 ## 🤹 Recent Activity
 ```
-📦 Released "v0.0.9" in Yimura/AsyncLogger
-⬆️ Pushed 1 commit to Yimura/AsyncLogger
-🎉 Merged PR #4 in Yimura/AsyncLogger
-🗣 Commented on #4 in Yimura/AsyncLogger
-🗣 Commented on #411 in YimMenu/YimMenuV2
+🗣 Commented on #508 in YimMenu/YimMenuV2
+❗️ Closed issue #508 in YimMenu/YimMenuV2
+🗣 Commented on #494 in YimMenu/YimMenuV2
+🗣 Commented on #502 in YimMenu/YimMenuV2
+🗣 Commented on #502 in YimMenu/YimMenuV2
 ```
 ## 🌟 Cool Repos
 ```
