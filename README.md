@@ -53,8 +53,6 @@ public:
 🗣 Commented on #494 in YimMenu/YimMenuV2
 ❗️ Closed issue #543 in YimMenu/YimMenuV2
 🗣 Commented on #543 in YimMenu/YimMenuV2
-❗️ Closed issue #535 in YimMenu/YimMenuV2
-🗣 Commented on #535 in YimMenu/YimMenuV2
 ```
 ## 🌟 Cool Repos
 ```
