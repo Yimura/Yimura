@@ -50,11 +50,11 @@ public:
 
 ## 🤹 Recent Activity
 ```
-🗣 Commented on #494 in YimMenu/YimMenuV2
+
 ```
 ## 🌟 Cool Repos
 ```
-⭐️ 1591 📦 YimMenu/YimMenu
+⭐️ 1589 📦 YimMenu/YimMenu
 ⭐️ 184  📦 Yimura/GTAV-Classes
 ⭐️ 51   📦 Yimura/Scraper
 ⭐️ 35   📦 Yimura/Injector
