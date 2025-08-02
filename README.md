@@ -50,7 +50,8 @@ public:
 
 ## 🤹 Recent Activity
 ```
-
+❗️ Opened issue #1 in Yimura/via-desktop-flatpak
+🗣 Commented on #13 in cebby2420/via-desktop
 ```
 ## 🌟 Cool Repos
 ```
