@@ -50,11 +50,11 @@ public:
 
 ## 🤹 Recent Activity
 ```
+⬆️ Pushed 2 commits to Yimura/via-desktop-flatpak
 ⬆️ Pushed 4 commits to Yimura/via-desktop
 ⬆️ Pushed 1 commit to Yimura/via-desktop-flatpak
 ⬆️ Pushed 1 commit to Yimura/via-desktop-flatpak
 🗣 Commented on #16 in cebby2420/via-desktop
-⬆️ Pushed 1 commit to Yimura/via-desktop
 ```
 ## 🌟 Cool Repos
 ```
