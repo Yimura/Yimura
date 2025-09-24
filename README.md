@@ -52,13 +52,10 @@ public:
 ```
 ⬆️ Pushed 1 commit to Yimura/RemoteUnlockApp
 ⬆️ Pushed 1 commit to Yimura/RemoteUnlockApp
-⬆️ Pushed 1 commit to Yimura/RemoteUnlockApp
-⬆️ Pushed 1 commit to Yimura/RemoteUnlockApp
-⬆️ Pushed 1 commit to Yimura/RemoteUnlockMC
 ```
 ## 🌟 Cool Repos
 ```
-⭐️ 1583 📦 YimMenu/YimMenu
+⭐️ 1582 📦 YimMenu/YimMenu
 ⭐️ 185  📦 Yimura/GTAV-Classes
 ⭐️ 51   📦 Yimura/Scraper
 ⭐️ 35   📦 Yimura/Injector
