@@ -50,8 +50,7 @@ public:
 
 ## 🤹 Recent Activity
 ```
-⬆️ Pushed 1 commit to Yimura/RemoteUnlockApp
-⬆️ Pushed 1 commit to Yimura/RemoteUnlockApp
+
 ```
 ## 🌟 Cool Repos
 ```
