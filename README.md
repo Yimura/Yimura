@@ -50,7 +50,7 @@ public:
 
 ## 🤹 Recent Activity
 ```
-
+❗️ Closed issue #724 in YimMenu/YimMenuV2
 ```
 ## 🌟 Cool Repos
 ```
@@ -58,5 +58,5 @@ public:
 ⭐️ 184  📦 Yimura/GTAV-Classes
 ⭐️ 51   📦 Yimura/Scraper
 ⭐️ 35   📦 Yimura/Injector
-⭐️ 16   📦 Yimura/FridaMgr
+⭐️ 17   📦 Yimura/FridaMgr
 ```
