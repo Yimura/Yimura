@@ -50,7 +50,7 @@ public:
 
 ## 🤹 Recent Activity
 ```
-❗️ Closed issue #724 in YimMenu/YimMenuV2
+
 ```
 ## 🌟 Cool Repos
 ```
