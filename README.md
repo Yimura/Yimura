@@ -59,6 +59,6 @@ public:
 ⭐️ 1577 📦 YimMenu/YimMenu
 ⭐️ 180  📦 Yimura/GTAV-Classes
 ⭐️ 51   📦 Yimura/Scraper
-⭐️ 35   📦 Yimura/Injector
+⭐️ 36   📦 Yimura/Injector
 ⭐️ 17   📦 Yimura/FridaMgr
 ```
