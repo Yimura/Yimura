@@ -50,11 +50,11 @@ public:
 
 ## 🤹 Recent Activity
 ```
-❗️ Opened issue #11 in Jonohas/auction-categorization
-❌ Merged PR #7 in Jonohas/auction-categorization
 ⬆️ Pushed undefined commit to Jonohas/auction-categorization
 ⬆️ Pushed undefined commit to Jonohas/auction-categorization
-❌ Merged PR #6 in Jonohas/auction-categorization
+❌ Merged PR #16 in Jonohas/auction-categorization
+❌ Merged PR #14 in Jonohas/auction-categorization
+💪 Opened PR #16 in Jonohas/auction-categorization
 ```
 ## 🌟 Cool Repos
 ```
