@@ -54,7 +54,6 @@ public:
 ❗️ Labeled issue #43 in Jonohas/auction-categorization
 ❗️ Opened issue #43 in Jonohas/auction-categorization
 ❗️ Labeled issue #42 in Jonohas/auction-categorization
-❗️ Opened issue #42 in Jonohas/auction-categorization
 ```
 ## 🌟 Cool Repos
 ```
