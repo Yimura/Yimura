@@ -51,9 +51,6 @@ public:
 ## 🤹 Recent Activity
 ```
 ⬆️ Pushed undefined commit to Yimura/steam-lancache-prefill
-❗️ Labeled issue #43 in Jonohas/auction-categorization
-❗️ Opened issue #43 in Jonohas/auction-categorization
-❗️ Labeled issue #42 in Jonohas/auction-categorization
 ```
 ## 🌟 Cool Repos
 ```
