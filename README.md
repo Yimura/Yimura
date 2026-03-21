@@ -50,7 +50,7 @@ public:
 
 ## 🤹 Recent Activity
 ```
-⬆️ Pushed undefined commit to Yimura/steam-lancache-prefill
+
 ```
 ## 🌟 Cool Repos
 ```
