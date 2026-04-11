@@ -58,8 +58,8 @@ public:
 ```
 ## 🌟 Cool Repos
 ```
-⭐️ 1573 📦 YimMenu/YimMenu
-⭐️ 178  📦 Yimura/GTAV-Classes
+⭐️ 1574 📦 YimMenu/YimMenu
+⭐️ 177  📦 Yimura/GTAV-Classes
 ⭐️ 51   📦 Yimura/Scraper
 ⭐️ 35   📦 Yimura/Injector
 ⭐️ 18   📦 Yimura/FridaMgr
