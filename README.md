@@ -60,7 +60,7 @@ public:
 ```
 ⭐️ 1572 📦 YimMenu/YimMenu
 ⭐️ 177  📦 Yimura/GTAV-Classes
-⭐️ 52   📦 Yimura/Scraper
+⭐️ 51   📦 Yimura/Scraper
 ⭐️ 35   📦 Yimura/Injector
 ⭐️ 20   📦 Yimura/FridaMgr
 ```
