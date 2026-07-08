@@ -50,11 +50,11 @@ public:
 
 ## 🤹 Recent Activity
 ```
-⬆️ Pushed undefined commit to Yimura/RemoteUnlockMC
-⬆️ Pushed undefined commit to Yimura/RemoteUnlockMC
-⬆️ Pushed undefined commit to Yimura/RemoteUnlockApp
-⬆️ Pushed undefined commit to Yimura/RemoteUnlockMC
-❌ Closed PR #13 in Yimura/RemoteUnlockApp
+📦 Released "v0.3.0" in Yimura/flowbuddy-ha
+⬆️ Pushed undefined commit to Yimura/flowbuddy-ha
+⬆️ Pushed undefined commit to Yimura/flowbuddy-ha
+⬆️ Pushed undefined commit to Yimura/flowbuddy-ha
+⬆️ Pushed undefined commit to Yimura/flowbuddy-ha
 ```
 ## 🌟 Cool Repos
 ```
