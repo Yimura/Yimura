@@ -50,7 +50,7 @@ public:
 
 ## 🤹 Recent Activity
 ```
-⬆️ Pushed undefined commit to Yimura/nitroglow-linux
+❗️ Closed issue #1 in Yimura/nitroglow-linux
 ⬆️ Pushed undefined commit to Yimura/nitroglow-linux
 ⬆️ Pushed undefined commit to Yimura/nitroglow-linux
 ⬆️ Pushed undefined commit to Yimura/nitroglow-linux
@@ -58,8 +58,8 @@ public:
 ```
 ## 🌟 Cool Repos
 ```
-⭐️ 1570 📦 YimMenu/YimMenu
-⭐️ 178  📦 Yimura/GTAV-Classes
+⭐️ 1569 📦 YimMenu/YimMenu
+⭐️ 177  📦 Yimura/GTAV-Classes
 ⭐️ 51   📦 Yimura/Scraper
 ⭐️ 36   📦 Yimura/Injector
 ⭐️ 20   📦 Yimura/FridaMgr
