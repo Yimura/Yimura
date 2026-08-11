@@ -50,15 +50,15 @@ public:
 
 ## 🤹 Recent Activity
 ```
+❗️ Opened issue #7 in maxke24/Detour
 ❗️ Closed issue #1 in Yimura/nitroglow-linux
-⬆️ Pushed undefined commit to Yimura/nitroglow-linux
 ⬆️ Pushed undefined commit to Yimura/nitroglow-linux
 ⬆️ Pushed undefined commit to Yimura/nitroglow-linux
 ⬆️ Pushed undefined commit to Yimura/nitroglow-linux
 ```
 ## 🌟 Cool Repos
 ```
-⭐️ 1569 📦 YimMenu/YimMenu
+⭐️ 1568 📦 YimMenu/YimMenu
 ⭐️ 178  📦 Yimura/GTAV-Classes
 ⭐️ 51   📦 Yimura/Scraper
 ⭐️ 36   📦 Yimura/Injector
