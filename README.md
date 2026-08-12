@@ -50,11 +50,11 @@ public:
 
 ## 🤹 Recent Activity
 ```
-❗️ Opened issue #7 in maxke24/Detour
-❗️ Closed issue #1 in Yimura/nitroglow-linux
-⬆️ Pushed undefined commit to Yimura/nitroglow-linux
-⬆️ Pushed undefined commit to Yimura/nitroglow-linux
-⬆️ Pushed undefined commit to Yimura/nitroglow-linux
+❗️ Assigned issue #20 in maxke24/Detour
+❗️ Opened issue #20 in maxke24/Detour
+❌ Merged PR #15 in maxke24/Detour
+⬆️ Pushed undefined commit to Yimura/Detour
+❗️ Assigned issue #12 in maxke24/Detour
 ```
 ## 🌟 Cool Repos
 ```
