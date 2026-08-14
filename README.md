@@ -50,15 +50,15 @@ public:
 
 ## 🤹 Recent Activity
 ```
-🗣 Commented on #26 in maxke24/Detour
-🗣 Commented on #24 in maxke24/Detour
-❗️ Labeled issue #26 in maxke24/Detour
-❗️ Opened issue #26 in maxke24/Detour
+❌ Merged PR #23 in maxke24/Detour
+⬆️ Pushed undefined commit to Yimura/Detour
+⬆️ Pushed undefined commit to Yimura/Detour
+⬆️ Pushed undefined commit to Yimura/Detour
 ⬆️ Pushed undefined commit to Yimura/Detour
 ```
 ## 🌟 Cool Repos
 ```
-⭐️ 1568 📦 YimMenu/YimMenu
+⭐️ 1569 📦 YimMenu/YimMenu
 ⭐️ 178  📦 Yimura/GTAV-Classes
 ⭐️ 51   📦 Yimura/Scraper
 ⭐️ 36   📦 Yimura/Injector
