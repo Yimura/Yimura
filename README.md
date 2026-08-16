@@ -50,11 +50,11 @@ public:
 
 ## 🤹 Recent Activity
 ```
-❌ Merged PR #23 in maxke24/Detour
-⬆️ Pushed undefined commit to Yimura/Detour
-⬆️ Pushed undefined commit to Yimura/Detour
-⬆️ Pushed undefined commit to Yimura/Detour
-⬆️ Pushed undefined commit to Yimura/Detour
+💪 Opened PR #49 in maxke24/Detour
+❗️ Opened issue #48 in maxke24/Detour
+❗️ Opened issue #47 in maxke24/Detour
+💪 Opened PR #46 in maxke24/Detour
+❗️ Opened issue #45 in maxke24/Detour
 ```
 ## 🌟 Cool Repos
 ```
