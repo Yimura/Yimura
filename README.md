@@ -51,10 +51,10 @@ public:
 ## 🤹 Recent Activity
 ```
 ⬆️ Pushed undefined commit to maxke24/Detour
+❗️ Opened issue #84 in maxke24/Detour
+❗️ Opened issue #82 in maxke24/Detour
 ⬆️ Pushed undefined commit to maxke24/Detour
-⬆️ Pushed undefined commit to maxke24/Detour
-⬆️ Pushed undefined commit to maxke24/Detour
-⬆️ Pushed undefined commit to maxke24/Detour
+❌ Merged PR #86 in maxke24/Detour
 ```
 ## 🌟 Cool Repos
 ```
