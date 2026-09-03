@@ -50,15 +50,15 @@ public:
 
 ## 🤹 Recent Activity
 ```
-⬆️ Pushed undefined commit to maxke24/Detour
-⬆️ Pushed undefined commit to maxke24/Detour
-⬆️ Pushed undefined commit to maxke24/Detour
-⬆️ Pushed undefined commit to maxke24/Detour
-❌ Merged PR #105 in maxke24/Detour
+⬆️ Pushed undefined commit to Detour-app/Detour
+⬆️ Pushed undefined commit to Detour-app/Detour
+⬆️ Pushed undefined commit to Detour-app/Detour
+⬆️ Pushed undefined commit to Detour-app/Detour
+❌ Merged PR #134 in Detour-app/Detour
 ```
 ## 🌟 Cool Repos
 ```
-⭐️ 1569 📦 YimMenu/YimMenu
+⭐️ 1568 📦 YimMenu/YimMenu
 ⭐️ 178  📦 Yimura/GTAV-Classes
 ⭐️ 51   📦 Yimura/Scraper
 ⭐️ 36   📦 Yimura/Injector
