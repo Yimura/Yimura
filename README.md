@@ -50,11 +50,11 @@ public:
 
 ## 🤹 Recent Activity
 ```
-⬆️ Pushed undefined commit to Detour-app/Detour
-⬆️ Pushed undefined commit to Detour-app/Detour
-⬆️ Pushed undefined commit to Detour-app/Detour
-⬆️ Pushed undefined commit to Detour-app/Detour
-❌ Merged PR #134 in Detour-app/Detour
+💪 Opened PR #148 in Detour-app/Detour
+❗️ Labeled issue #147 in Detour-app/Detour
+❗️ Opened issue #147 in Detour-app/Detour
+❗️ Closed issue #90 in Detour-app/Detour
+🗣 Commented on #90 in Detour-app/Detour
 ```
 ## 🌟 Cool Repos
 ```
