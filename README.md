@@ -50,15 +50,15 @@ public:
 
 ## 🤹 Recent Activity
 ```
-❌ Merged PR #291 in Detour-app/Detour
-❗️ Closed issue #274 in Detour-app/Detour
-💪 Opened PR #291 in Detour-app/Detour
-❌ Merged PR #290 in Detour-app/Detour
 ⬆️ Pushed undefined commit to Detour-app/Detour
+🗣 Commented on #301 in Detour-app/Detour
+🗣 Commented on #302 in Detour-app/Detour
+❗️ Labeled issue #323 in Detour-app/Detour
+❗️ Labeled issue #323 in Detour-app/Detour
 ```
 ## 🌟 Cool Repos
 ```
-⭐️ 1567 📦 YimMenu/YimMenu
+⭐️ 1568 📦 YimMenu/YimMenu
 ⭐️ 178  📦 Yimura/GTAV-Classes
 ⭐️ 51   📦 Yimura/Scraper
 ⭐️ 36   📦 Yimura/Injector
