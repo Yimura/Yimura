@@ -52,8 +52,8 @@ public:
 ```
 ⬆️ Pushed undefined commit to Detour-app/Detour
 ⬆️ Pushed undefined commit to Detour-app/Detour
-⬆️ Pushed undefined commit to Detour-app/Detour
-⬆️ Pushed undefined commit to Detour-app/Detour
+❗️ Closed issue #358 in Detour-app/Detour
+❌ Merged PR #365 in Detour-app/Detour
 ⬆️ Pushed undefined commit to Detour-app/Detour
 ```
 ## 🌟 Cool Repos
