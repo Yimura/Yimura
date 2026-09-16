@@ -52,13 +52,13 @@ public:
 ```
 ⬆️ Pushed undefined commit to Detour-app/Detour
 ⬆️ Pushed undefined commit to Detour-app/Detour
-❗️ Closed issue #358 in Detour-app/Detour
-❌ Merged PR #365 in Detour-app/Detour
+⬆️ Pushed undefined commit to Detour-app/Detour
+⬆️ Pushed undefined commit to Detour-app/Detour
 ⬆️ Pushed undefined commit to Detour-app/Detour
 ```
 ## 🌟 Cool Repos
 ```
-⭐️ 1568 📦 YimMenu/YimMenu
+⭐️ 1567 📦 YimMenu/YimMenu
 ⭐️ 178  📦 Yimura/GTAV-Classes
 ⭐️ 51   📦 Yimura/Scraper
 ⭐️ 36   📦 Yimura/Injector
