@@ -50,15 +50,15 @@ public:
 
 ## 🤹 Recent Activity
 ```
-💪 Opened PR #67 in Yimura/claude-code-proxy
-🗣 Commented on #64 in Yimura/claude-code-proxy
+❗️ Assigned issue #49 in Yimura/claude-code-proxy
 ⬆️ Pushed undefined commit to Yimura/claude-code-proxy
-❗️ Assigned issue #39 in Yimura/claude-code-proxy
+❌ Merged PR #69 in Yimura/claude-code-proxy
+❗️ Closed issue #68 in Yimura/claude-code-proxy
 ⬆️ Pushed undefined commit to Yimura/claude-code-proxy
 ```
 ## 🌟 Cool Repos
 ```
-⭐️ 1566 📦 YimMenu/YimMenu
+⭐️ 1565 📦 YimMenu/YimMenu
 ⭐️ 178  📦 Yimura/GTAV-Classes
 ⭐️ 51   📦 Yimura/Scraper
 ⭐️ 36   📦 Yimura/Injector
