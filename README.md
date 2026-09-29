@@ -50,11 +50,11 @@ public:
 
 ## 🤹 Recent Activity
 ```
-❗️ Assigned issue #64 in Yimura/claude-code-proxy
-❗️ Assigned issue #49 in Yimura/claude-code-proxy
 ⬆️ Pushed undefined commit to Yimura/claude-code-proxy
-❌ Merged PR #69 in Yimura/claude-code-proxy
-❗️ Closed issue #68 in Yimura/claude-code-proxy
+❗️ Closed issue #73 in Yimura/claude-code-proxy
+❌ Merged PR #74 in Yimura/claude-code-proxy
+💪 Opened PR #74 in Yimura/claude-code-proxy
+🗣 Commented on #73 in Yimura/claude-code-proxy
 ```
 ## 🌟 Cool Repos
 ```
