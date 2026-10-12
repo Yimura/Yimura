@@ -50,11 +50,11 @@ public:
 
 ## 🤹 Recent Activity
 ```
-⬆️ Pushed undefined commit to YRRPs/android
+⬆️ Pushed undefined commit to YRRPs/android_packages_apps_Settings
+⬆️ Pushed undefined commit to YRRPs/project
+⬆️ Pushed undefined commit to YRRPs/android_vendor_extra
 ⬆️ Pushed undefined commit to Yimura/claude-code-proxy
-⬆️ Pushed undefined commit to YRRPs/android_frameworks_av
-⬆️ Pushed undefined commit to YRRPs/android_frameworks_base
-⬆️ Pushed undefined commit to YRRPs/proprietary_vendor_oneplus_salami
+⬆️ Pushed undefined commit to YRRPs/project
 ```
 ## 🌟 Cool Repos
 ```
