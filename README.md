@@ -50,16 +50,16 @@ public:
 
 ## 🤹 Recent Activity
 ```
-⬆️ Pushed undefined commit to YRRPs/android_packages_apps_Settings
-⬆️ Pushed undefined commit to YRRPs/project
+❌ Merged PR #12 in YRRPs/android_packages_apps_Settings
+❌ Merged PR #73 in YRRPs/project
+⬆️ Pushed undefined commit to YRRPs/android_frameworks_base
+❌ Merged PR #14 in YRRPs/android_frameworks_base
 ⬆️ Pushed undefined commit to YRRPs/android_vendor_extra
-⬆️ Pushed undefined commit to Yimura/claude-code-proxy
-⬆️ Pushed undefined commit to YRRPs/project
 ```
 ## 🌟 Cool Repos
 ```
-⭐️ 1566 📦 YimMenu/YimMenu
-⭐️ 178  📦 Yimura/GTAV-Classes
+⭐️ 1565 📦 YimMenu/YimMenu
+⭐️ 177  📦 Yimura/GTAV-Classes
 ⭐️ 51   📦 Yimura/Scraper
 ⭐️ 36   📦 Yimura/Injector
 ⭐️ 21   📦 Yimura/FridaMgr
