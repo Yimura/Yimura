@@ -50,16 +50,16 @@ public:
 
 ## 🤹 Recent Activity
 ```
-⬆️ Pushed undefined commit to Yimura/DistributedCC
-⬆️ Pushed undefined commit to Yimura/DistributedCC
 ⬆️ Pushed undefined commit to YRRPs/project
+⬆️ Pushed undefined commit to YRRPs/android_packages_apps_Settings
+⬆️ Pushed undefined commit to YRRPs/android_packages_apps_Settings
 ⬆️ Pushed undefined commit to YRRPs/project
-⬆️ Pushed undefined commit to YRRPs/android_frameworks_libs_systemui
+⬆️ Pushed undefined commit to YRRPs/android_packages_apps_Settings
 ```
 ## 🌟 Cool Repos
 ```
-⭐️ 1565 📦 YimMenu/YimMenu
-⭐️ 177  📦 Yimura/GTAV-Classes
+⭐️ 1564 📦 YimMenu/YimMenu
+⭐️ 176  📦 Yimura/GTAV-Classes
 ⭐️ 51   📦 Yimura/Scraper
 ⭐️ 36   📦 Yimura/Injector
 ⭐️ 21   📦 Yimura/FridaMgr
