@@ -50,15 +50,15 @@ public:
 
 ## 🤹 Recent Activity
 ```
-❗️ Closed issue #11 in MindTheGapps/vendor_gapps
-🗣 Commented on #11 in MindTheGapps/vendor_gapps
-❗️ Reopened issue #109 in YRRPs/project
+❌ Merged PR #10 in YRRPs/android_vendor_extra
 🗣 Commented on #109 in YRRPs/project
 ❗️ Closed issue #109 in YRRPs/project
+💪 Opened PR #10 in YRRPs/android_vendor_extra
+❗️ Closed issue #11 in MindTheGapps/vendor_gapps
 ```
 ## 🌟 Cool Repos
 ```
-⭐️ 1563 📦 YimMenu/YimMenu
+⭐️ 1564 📦 YimMenu/YimMenu
 ⭐️ 176  📦 Yimura/GTAV-Classes
 ⭐️ 51   📦 Yimura/Scraper
 ⭐️ 36   📦 Yimura/Injector
