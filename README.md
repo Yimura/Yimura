@@ -50,16 +50,16 @@ public:
 
 ## 🤹 Recent Activity
 ```
+❗️ Opened issue #191 in rabbitmq/rabbitmq-amqp-dotnet-client
 ❌ Merged PR #115 in YRRPs/project
 ❗️ Closed issue #114 in YRRPs/project
 ❌ Merged PR #22 in YRRPs/android_frameworks_base
 💪 Opened PR #115 in YRRPs/project
-💪 Opened PR #22 in YRRPs/android_frameworks_base
 ```
 ## 🌟 Cool Repos
 ```
-⭐️ 1561 📦 YimMenu/YimMenu
-⭐️ 176  📦 Yimura/GTAV-Classes
+⭐️ 1563 📦 YimMenu/YimMenu
+⭐️ 177  📦 Yimura/GTAV-Classes
 ⭐️ 51   📦 Yimura/Scraper
 ⭐️ 36   📦 Yimura/Injector
 ⭐️ 21   📦 Yimura/FridaMgr
