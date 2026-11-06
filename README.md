@@ -50,11 +50,11 @@ public:
 
 ## 🤹 Recent Activity
 ```
-⬆️ Pushed undefined commit to YRRPs/android_device_oneplus_xueying
-⬆️ Pushed undefined commit to YRRPs/project
-❌ Merged PR #12 in YRRPs/android
-❌ Merged PR #2 in YRRPs/android_device_oneplus_xueying
-❌ Merged PR #19 in YRRPs/android_packages_apps_Settings
+🗣 Commented on #96 in Crimson7research/owasp-kb
+🗣 Commented on #98 in Crimson7research/owasp-kb
+❗️ Labeled issue #98 in Crimson7research/owasp-kb
+❗️ Opened issue #98 in Crimson7research/owasp-kb
+💪 Opened PR #97 in Crimson7research/owasp-kb
 ```
 ## 🌟 Cool Repos
 ```
