@@ -62,5 +62,5 @@ public:
 ⭐️ 178  📦 Yimura/GTAV-Classes
 ⭐️ 51   📦 Yimura/Scraper
 ⭐️ 36   📦 Yimura/Injector
-⭐️ 21   📦 Yimura/FridaMgr
+⭐️ 22   📦 Yimura/FridaMgr
 ```
